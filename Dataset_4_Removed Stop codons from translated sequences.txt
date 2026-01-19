@@ -1,0 +1,2560 @@
+>IgG_1 binder 957_CP092966.1:2480326-2480499 Staphylococcus coagulans strain 1031336 chromosome
+QRPDRRVAQQNAFYEILNNEDITDEQRDRYISEIKENPDAAQKVFVESVNQTETKPAE
+>IgG_1 binder 965_LR134263.1:2760666-2760839 Staphylococcus delphini strain NCTC12225 genome assembly, chromosome: 1
+KNPERRVAQQNAFYSVLHNEDLSEQQRDAYISEIREDADQSQEVFVKSLNSTPEAEQP
+>IgG_1 binder974_CP094711.1:c150068-149895 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+AAPDYTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQAAP
+>IgG_1 binder 978_CP009623.1:2001366-2001539 Staphylococcus agnetis strain 908 chromosome, complete genome
+TQTSDVTDAQRAFYKVMHLEGITEEQRNHYIQTLRTQPERAQEVFSESIKDNNNQERR
+>IgG_1 binder 987_CP046028.1:c64832-64659 Staphylococcus chromogenes strain 1401 chromosome, complete genome
+PETNQVDNAQRAYYKVLNLEGLSEEQRQTHIQTLRDNPNRAQEVFSESIKDSNHPERR
+>IgG_1 binder_75_CP094714.1:c150546-150397 Staphylococcus schleiferi strain IVB6176 chromosome, complete genome
+DQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSADILIQARNVNVAQAP
+>IgG_1 binder 405_CP063443.1:1292252-1292422 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+ENTFDQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>IgG_1 binder_404_CP083222.2:1491615-1491755 Staphylococcus pseudintermedius strain HSP158 chromosome, complete genome
+QKTFYQVLHMEGISEDQREQYLKQLHEDPSSAQNVFSESIKDAIHPR
+>IgG_1 binder_406_CP018776.1:c1108063-1107932 Staphylococcus condimenti strain StO 2014-01, complete genome
+QQQAFYELLKMDNLTEQRKNDYIETIKVNPQASQEAFASAIKEN
+>IgG_1 binder 962_CP015533.1:1590746-1590919 Staphylococcus carnosus strain TMW 2.216 chromosome, complete genome
+NPETGVTGQQQAFYELLKMDNLTEQRKNDYIDTIKVNPQASQEVFASAIKENRNSTEV
+>IgG_1 binder 25_CP075518.1:2592935-2593093 Staphylococcus argenteus strain Colony588 chromosome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPEHAQEVFSESLKDSKNP
+>IgG_1 binder 39_CP193728.1:c30710-30591 Staphylococcus pseudintermedius strain V240 chromosome, complete genome
+QQNAFYSVLHNDDLSEEQRDAYIGRIKEDPDQSQEVFVES
+>IgG_2 binder 39_CP193728.1:c30710-30591 Staphylococcus pseudintermedius strain V240 chromosome, complete genome
+NKMRFTAYYTTMTYPKSNVMHTLVELKKIQIKAKKYLLSL
+>IgG_1 binder 60_CP092966.1:c192501-192346 Staphylococcus coagulans strain 1031336 chromosome
+FSAEQQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDIQA
+>IgG_1 binder 63_CP092966.1:c193011-192868 Staphylococcus coagulans strain 1031336 chromosome
+DQQNAFSEVVNLPNLNEDQRNGFIQSIKDDPSASQDVLNEAKKLNDSQ
+>IgG_1 Binder 67_GU253976.1:136-297 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+FDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>IgG_1 Binder 68_GU253975.1:136-258 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+FDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADIL
+>IgG_1 Binder 77_CP092965.1:c98648-98499 Staphylococcus coagulans strain 1031373 chromosome
+ELNEDQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSD
+>IgG_1 Binder 78_CP092966.1:c192669-192520 Staphylococcus coagulans strain 1031336 chromosome
+ELNEDQQNAFYEILNLPNLKDDQRNGFIQSLKDDPSVSKDVLAEAKKLSD
+>IgG_1 Binder 93_CP095104.1:75387-75545 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+DGDRQAAFYEMLHMENLNDNQKDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>IgG_1 Binder 96_CP094717.1:109982-110140 Staphylococcus sp. IVB6246 chromosome, complete genome
+DGGRQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>IgG_1 Binder 100_CP065980.1:c870167-870024 Staphylococcus felis strain FDAARGOS_1014 chromosome, complete genome
+NEFETDQQRAFYHTLHLEDVTEDQRNQYIKTIREEPTRAQEVFSESVK
+>IgG_1 Binder 102_CP094734.1:2621899-2622039 Staphylococcus delphini strain IVB6245 chromosome, complete genome
+EQKAFYQVLHMDGISESQRDQYIKQLHEDPSSAQNVFSESIKDATNP
+>IgG_2 Binder 102_CP094734.1:2621899-2622039 Staphylococcus delphini strain IVB6245 chromosome, complete genome
+SKKHFTKFYTWTVFLKVNATNTLNNFTKIQAVLKMYFQNQLKMRQTL
+>70-243_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>244-417_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>94-243_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>268-417_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>76-243_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>250-417_1 Staphylococcus aureus SAG5 spa gene for Immunoglobulin G binding protein, partial cds
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>309-482_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>135-308_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+ADNNFNKKQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>3-134_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+EILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>159-308_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>333-482_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>141-308_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+NNFNKKQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>315-482_1 Staphylococcus aureus SAH32 spa gene for immunoglobulin G binding protein, partial cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>343-516_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>169-342_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>19-168_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>1-168_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>193-342_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>367-516_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>175-342_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>349-516_1 Staphylococcus aureus strain K4330 SpA IgG-binding domain protein gene, partial cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>169-342_1 Staphylococcus aureus strain A8146I SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>19-168_1 Staphylococcus aureus strain A8146I SpA IgG-binding domain protein gene, partial cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>1-168_1 Staphylococcus aureus strain A8146I SpA IgG-binding domain protein gene, partial cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>193-342_1 Staphylococcus aureus strain A8146I SpA IgG-binding domain protein gene, partial cds
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>175-342_1 Staphylococcus aureus strain A8146I SpA IgG-binding domain protein gene, partial cds
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>498-671_1 Staphylococcus aureus Amena spa gene, partial sequence
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>324-497_1 Staphylococcus aureus Amena spa gene, partial sequence
+ADNNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>156-323_1 Staphylococcus aureus Amena spa gene, partial sequence
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>3-140_1 Staphylococcus aureus Amena spa gene, partial sequence
+FYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>174-323_1 Staphylococcus aureus Amena spa gene, partial sequence
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>348-497_1 Staphylococcus aureus Amena spa gene, partial sequence
+QQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>141-323_1 Staphylococcus aureus Amena spa gene, partial sequence
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>330-497_1 Staphylococcus aureus Amena spa gene, partial sequence
+NNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>173-346_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>521-694_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>23-172_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>5-172_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>545-694_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>179-346_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>527-694_1 Staphylococcus aureus partial spa gene for protein A, strain M2
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>282-455_1 Staphylococcus aureus strain IQ-UTI-2 immunoglobulin G binding protein A (spa) gene, partial cds
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>3-98_1 Staphylococcus aureus strain IQ-UTI-2 immunoglobulin G binding protein A (spa) gene, partial cds
+RNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>456-536_1 Staphylococcus aureus strain IQ-UTI-2 immunoglobulin G binding protein A (spa) gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLTEEQR
+>99-281_1 Staphylococcus aureus strain IQ-UTI-2 immunoglobulin G binding protein A (spa) gene, partial cds
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>288-455_1 Staphylococcus aureus strain IQ-UTI-2 immunoglobulin G binding protein A (spa) gene, partial cds
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>456-551_1 Staphylococcus aureus strain IQ-UTI-1 immunoglobulin G binding protein A (spa) gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQ
+>480-551_1 Staphylococcus aureus strain IQ-UTI-1 immunoglobulin G binding protein A (spa) gene, partial cds
+QQNAFYEILHLPNLTEEQRNGFIQ
+>462-551_1 Staphylococcus aureus strain IQ-UTI-1 immunoglobulin G binding protein A (spa) gene, partial cds
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQ
+>127-276_1 Staphylococcus aureus strain AN2052 truncated protein A (spa) gene, complete cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>109-276_1 Staphylococcus aureus strain AN2052 truncated protein A (spa) gene, complete cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>553-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>211-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>46-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>28-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>403-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>229-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>577-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>196-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>559-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7919
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7051
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>211-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7051
+NKFNKDRQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>229-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7051
+RQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>196-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H7051
+ADAQQNKFNKDRQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAP
+>211-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6682
+NKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>229-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6682
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>196-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6682
+ADAQQNKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAP
+>557-730_1 Staphylococcus aureus isolate SPA5 immunoglobulin G binding protein A (spa) gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>581-730_1 Staphylococcus aureus isolate SPA5 immunoglobulin G binding protein A (spa) gene, partial cds
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>563-730_1 Staphylococcus aureus isolate SPA5 immunoglobulin G binding protein A (spa) gene, partial cds
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>211-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>46-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>28-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>229-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>403-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>196-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13928
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>46-195_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>379-504_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSG
+>503-553_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+ANLLAEAKKLNESQAPK
+>28-195_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>403-504_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSG
+>379-501_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQS
+>385-501_1 Staphylococcus aureus partial spa pseudogene, isolate H10344
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQS
+>634-807_1 Staphylococcus aureus strain AC1354 truncated protein A (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>658-807_1 Staphylococcus aureus strain AC1354 truncated protein A (spa) gene, complete cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>640-807_1 Staphylococcus aureus strain AC1354 truncated protein A (spa) gene, complete cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>172-345_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+ADNKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>346-519_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>4-171_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+NNFNKDQQSAFYQILDMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>22-171_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+QQSAFYQILDMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>196-345_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>370-519_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1-171_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+QNNFNKDQQSAFYQILDMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>178-345_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+NKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>352-519_1 Staphylococcus aureus KAZ7.1 spa gene for immunoglobulin G binding protein A precursor, partial sequence
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>156-323_1 Staphylococcus aureus Dimashams spa gene, partial sequence
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVRCSDKKLNESQAPK
+>174-323_1 Staphylococcus aureus Dimashams spa gene, partial sequence
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVRCSDKKLNESQAPK
+>141-323_1 Staphylococcus aureus Dimashams spa gene, partial sequence
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVRCSDKKLNESQAP
+>292-459_1 Staphylococcus aureus strain NT938 protein A (spa) gene, partial cds
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>310-459_1 Staphylococcus aureus strain NT938 protein A (spa) gene, partial cds
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>277-459_1 Staphylococcus aureus strain NT938 protein A (spa) gene, partial cds
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>528-701_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>354-527_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>186-353_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+NNFNKDQQSAFYEILNMPNLNEAQRSGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>27-170_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+NAFYEVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>722-835_2 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+RTTKMLSMKFYIYLTYLKNNVTASSKALKTTLREQEIX
+>363-527_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+KFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>537-701_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>204-353_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+QQSAFYEILNMPNLNEAQRSGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>731-835_2 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+KMLSMKFYIYLTYLKNNVTASSKALKTTLREQEIX
+>30-170_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+AFYEVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>713-835_2 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+IQQRTTKMLSMKFYIYLTYLKNNVTASSKALKTTLREQEIX
+>722-820_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+KNNKNAFYEILHLPNLPEEQRNGFIQSLKDNPS
+>722-820_2 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+RTTKMLSMKFYIYLTYLKNNVTASSKALKTTLR
+>171-353_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRSGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>360-527_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+NKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>534-701_1 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>707-832_2 Staphylococcus aureus spa gene, partial sequence, isolate: S24
+NKIQQRTTKMLSMKFYIYLTYLKNNVTASSKALKTTLREQEX
+>634-807_1 Staphylococcus aureus strain NT939 protein A (spa) gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>658-807_1 Staphylococcus aureus strain NT939 protein A (spa) gene, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>640-807_1 Staphylococcus aureus strain NT939 protein A (spa) gene, partial cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>352-525_1 Staphylococcus aureus strain L2585I SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>358-525_1 Staphylococcus aureus strain L2585I SpA IgG-binding domain protein gene, partial cds
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9404
+ADNNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>403-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9404
+QQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9404
+NNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>156-323_1 Staphylococcus aureus Mohammed S. spa gene, partial sequence
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>3-140_1 Staphylococcus aureus Mohammed S. spa gene, partial sequence
+FYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>174-323_1 Staphylococcus aureus Mohammed S. spa gene, partial sequence
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>141-323_1 Staphylococcus aureus Mohammed S. spa gene, partial sequence
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>211-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+NKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>229-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>403-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>196-378_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+ADAQQNKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain 4C7E, allele 9
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13927
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H13927
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>232-378_1 Staphylococcus aureus partial spa pseudogene, isolate H13911
+QSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>37-195_1 Staphylococcus aureus partial spa pseudogene, isolate H13911
+DEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>31-195_1 Staphylococcus aureus partial spa pseudogene, isolate H13911
+QHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>156-323_1 Staphylococcus aureus Mayar spa gene, partial sequence
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSISVRCSDKKLNESQAPK
+>174-323_1 Staphylococcus aureus Mayar spa gene, partial sequence
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSISVRCSDKKLNESQAPK
+>141-323_1 Staphylococcus aureus Mayar spa gene, partial sequence
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSISVRCSDKKLNESQAP
+>727-900_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain H7639, allele 18
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>46-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain H7639, allele 18
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>28-195_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A precursor, strain H7639, allele 18
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>727-894_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9779
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQA
+>751-900_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9779
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQALK
+>733-900_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H9779
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQALK
+>2572416-2572574_1 Staphylococcus aureus strain ER00551.3 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H10869
+ADNNFNKEQQNAFYEILNMPNLNEEQHNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>403-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H10869
+QQNAFYEILNMPNLNEEQHNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>385-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H10869
+NNFNKEQQNAFYEILNMPNLNEEQHNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>553-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H12920
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>379-552_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H11443
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>120008-120181_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>237504-237677_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>120182-120355_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>171336-171509_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEILNMPNLNEEQRNGRIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>171168-171335_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>119680-119841_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+FNKDQQSAFYEILNMPNLNDEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>c259503-259360_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAET
+>203794-203949_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEINEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>c259816-259655_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLAKKLNDAQAPK
+>c259654-259505_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSSSTK
+>203484-203633_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYQVLNMHNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>119912-120007_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+KNNAIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>119842-119922_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEILNMPNLNEEQR
+>119842-119922_4 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ALFFVQVRHVQDFIESILLIFVEFVVS
+>2336633-2336791_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>203466-203633_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+AQHDEAQQNAFYQVLNMHNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>237153-237320_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+SQHDEAQQNAFYQVLNMHNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>171186-171335_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>119692-119841_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQSAFYEILNMPNLNDEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>237528-237677_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>120032-120181_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>171360-171509_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGRIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>c259798-259655_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLAKKLNDAQAPK
+>120206-120355_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c259630-259505_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSSSTK
+>203818-203949_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEINEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>c259479-259360_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAET
+>119866-119922_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+QQNAFYEILNMPNLNEEQR
+>119866-119922_4 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ALFFVQVRHVQDFIESILL
+>119674-119841_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+HNFNKDQQSAFYEILNMPNLNDEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>119842-119925_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ADNKFNKDQQNAFYEILNMPNLNEEQRH
+>119842-119925_4 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+MALFFVQVRHVQDFIESILLIFVEFVVS
+>203649-203693_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NNFNKDQQSAFYEIL
+>203649-203693_2 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+ITSTKINKAPSMKSX
+>171153-171335_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAP
+>119659-119841_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+AEAQQHNFNKDQQSAFYEILNMPNLNDEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAP
+>c259831-259655_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLAKKLNDAQAPK
+>237510-237677_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>171342-171509_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKDQQNAFYEILNMPNLNEEQRNGRIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>120014-120181_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>120188-120355_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c259648-259505_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSSSTK
+>203800-203949_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKDQQNAFYEINEEQRNGFIQSLKDDPSQSANLLTEAKKLNDAQAPK
+>c259497-259360_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAET
+>119848-119925_1 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+NKFNKDQQNAFYEILNMPNLNEEQRH
+>119848-119925_4 Staphylococcus aureus strain OPD001-1 chromosome, complete genome
+MALFFVQVRHVQDFIESILLIFVEFV
+>13-159_1 Staphylococcus aureus subsp. aureus strain 81-basu immunoglobulin G-binding protein A (spa) gene, partial cds
+QNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1-159_1 Staphylococcus aureus subsp. aureus strain 81-basu immunoglobulin G-binding protein A (spa) gene, partial cds
+DAALQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>50-199_1 Staphylococcus aureus isolate SPA3 immunoglobulin G binding protein A (spa) gene, partial cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNESQAPK
+>32-199_1 Staphylococcus aureus isolate SPA3 immunoglobulin G binding protein A (spa) gene, partial cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNESQAPK
+>c73162-72989_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c73511-73338_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPE
+>c73842-73714_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKNL
+>c73678-73580_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQVLK
+>c73598-73512_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+FHSSLKDDPSQSTNVLGEAKKLNESQAPK
+>2468424-2468582_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c73860-73714_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKNL
+>c73487-73338_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPE
+>c73138-72989_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c73660-73577_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+QQSAFYEILNMPNLNEAQRNGFIQVLKT
+>c73505-73338_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPE
+>c73156-72989_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c73693-73580_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQVLK
+>c73622-73512_1 Staphylococcus aureus strain NCTC6131 genome assembly, chromosome: 1
+LKRSATQWFHSSLKDDPSQSTNVLGEAKKLNESQAPK
+>2452281-2452439_1 Staphylococcus aureus strain C222 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>634-807_1 Staphylococcus aureus strain AB1261 truncated protein A (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>658-807_1 Staphylococcus aureus strain AB1261 truncated protein A (spa) gene, complete cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>640-807_1 Staphylococcus aureus strain AB1261 truncated protein A (spa) gene, complete cds
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c111991-111851_1 Staphylococcus aureus strain C150 chromosome, complete genome
+AFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c100369-100217_1 Staphylococcus aureus strain 111250134 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKV
+>c100354-100217_1 Staphylococcus aureus strain 111250134 chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKV
+>c100363-100217_1 Staphylococcus aureus strain 111250134 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKV
+>c78520-78347_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c78688-78521_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c78853-78704_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c78871-78704_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c78670-78521_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c78496-78347_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c78703-78521_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c78514-78347_1 Staphylococcus aureus Tokyo12480 DNA, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c99275-99120_1 Staphylococcus aureus subsp. aureus HO 5096 0412 complete genome
+KKQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c117760-117620_1 Staphylococcus aureus strain CR14-016 chromosome, complete genome
+AFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c137164-136997_1 Staphylococcus aureus strain AR_0470 chromosome, complete genome
+NKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c137146-136997_1 Staphylococcus aureus strain AR_0470 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c137179-136997_1 Staphylococcus aureus strain AR_0470 chromosome, complete genome
+ADAQQNKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAP
+>c125222-125076_1 Staphylococcus aureus strain CR14-035 chromosome
+QNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c82036-81869_1 Staphylococcus aureus strain NT_611 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c82201-82052_1 Staphylococcus aureus strain NT_611 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c82219-82052_1 Staphylococcus aureus strain NT_611 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c82018-81869_1 Staphylococcus aureus strain NT_611 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c82051-81869_1 Staphylococcus aureus strain NT_611 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c69254-69087_1 Staphylococcus aureus strain 27-G-H chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c69236-69087_1 Staphylococcus aureus strain 27-G-H chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c69269-69087_1 Staphylococcus aureus strain 27-G-H chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c2327197-2327039_1 Staphylococcus aureus strain NAS_AN_005 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c59769-59602_1 Staphylococcus aureus strain BB155 genome assembly, chromosome: 1
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>c59751-59602_1 Staphylococcus aureus strain BB155 genome assembly, chromosome: 1
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>c59784-59602_1 Staphylococcus aureus strain BB155 genome assembly, chromosome: 1
+AEAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAP
+>c1713314-1713165_1 Staphylococcus aureus strain iso140 chromosome, complete genome
+QQNAFYQVLNMPNLNADRRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1325887-1326045_1 Staphylococcus aureus strain iso140 chromosome, complete genome
+NNYVTDRQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c1713332-1713165_1 Staphylococcus aureus strain iso140 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADRRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c1712798-1712634_1 Staphylococcus aureus strain iso140 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1712624-1712460_1 Staphylococcus aureus strain iso140 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c66968-66795_1 Staphylococcus aureus strain 01-RR-86 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c66944-66795_1 Staphylococcus aureus strain 01-RR-86 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c66962-66795_1 Staphylococcus aureus strain 01-RR-86 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1766346-1766173_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+ADNNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1766684-1766571_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDP
+>c1766669-1766571_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDP
+>c1766340-1766173_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+NNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1766678-1766571_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDP
+>c1766571-1766521_1 Staphylococcus aureus strain MRSA - AMRF 3 chromosome, complete genome
+TNLLSEAKKLNESQAPK
+>c73536-73363_1 Staphylococcus aureus strain V40 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c73710-73537_1 Staphylococcus aureus strain V40 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73878-73711_1 Staphylococcus aureus strain V40 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c74043-73894_1 Staphylococcus aureus strain V40 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c74061-73894_1 Staphylococcus aureus strain V40 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c73860-73711_1 Staphylococcus aureus strain V40 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c73686-73537_1 Staphylococcus aureus strain V40 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73512-73363_1 Staphylococcus aureus strain V40 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c73893-73711_1 Staphylococcus aureus strain V40 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c73704-73537_1 Staphylococcus aureus strain V40 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73530-73363_1 Staphylococcus aureus strain V40 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1027-1191_1 Staphylococcus aureus strain 65947 protein A gene, complete cds
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2387647-2387805_1 Staphylococcus aureus strain 18-H-62 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c70203-70036_1 Staphylococcus aureus strain C43 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c70185-70036_1 Staphylococcus aureus strain C43 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c70218-70036_1 Staphylococcus aureus strain C43 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>1856742-1856915_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1856225-1856392_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQASK
+>1856766-1856915_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1856243-1856392_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQASK
+>1856670-1856741_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+KDDPSQSANLLSEAKKLNESQAPK
+>1856748-1856915_1 Staphylococcus aureus strain Ahri chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c98306-98190_1 Staphylococcus aureus strain WBG7583 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQT
+>c98202-98140_1 Staphylococcus aureus strain WBG7583 chromosome, complete genome
+PKPNTNVLGEAKKLNESQAPK
+>c98288-98190_1 Staphylococcus aureus strain WBG7583 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQT
+>c98306-98196_1 Staphylococcus aureus strain WBG7583 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPS
+>c98321-98190_1 Staphylococcus aureus strain WBG7583 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQT
+>c97836-97723_1 Staphylococcus aureus strain ST2594 isolate 004 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQ
+>c97818-97723_1 Staphylococcus aureus strain ST2594 isolate 004 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQ
+>c97851-97723_1 Staphylococcus aureus strain ST2594 isolate 004 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQ
+>c1063945-1063772_1 Staphylococcus aureus strain Fizz chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKYDPSQSANLLSEAKKLNESQAPK
+>c1063921-1063772_1 Staphylococcus aureus strain Fizz chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKYDPSQSANLLSEAKKLNESQAPK
+>c1063939-1063772_1 Staphylococcus aureus strain Fizz chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKYDPSQSANLLSEAKKLNESQAPK
+>1931958-1932077_1 Staphylococcus aureus strain NAS_AN_149 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQST
+>1931976-1932077_1 Staphylococcus aureus strain NAS_AN_149 chromosome, complete genome
+QQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQST
+>1931958-1932080_1 Staphylococcus aureus strain NAS_AN_149 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTK
+>1931943-1932077_1 Staphylococcus aureus strain NAS_AN_149 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQST
+>c1642076-1641903_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1642250-1642077_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c1641902-1641729_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1642226-1642077_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c1641878-1641729_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1642244-1642077_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+NKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c1641896-1641729_1 Staphylococcus aureus strain CFSAN064037 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1977006-1977179_1 Staphylococcus aureus strain UP_678 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNKSQAPK
+>1977030-1977179_1 Staphylococcus aureus strain UP_678 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNKSQAPK
+>1977012-1977179_1 Staphylococcus aureus strain UP_678 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNKSQAPK
+>118-276_1 Staphylococcus aureus strain CGW35073 truncated protein A (spa) gene, complete cds
+NEAQQNAFYQVLNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>109-276_1 Staphylococcus aureus strain CGW35073 truncated protein A (spa) gene, complete cds
+AQHNEAQQNAFYQVLNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>115-276_1 Staphylococcus aureus strain CGW35073 truncated protein A (spa) gene, complete cds
+HNEAQQNAFYQVLNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>112-276_1 Staphylococcus aureus strain CGW35073 truncated protein A (spa) gene, complete cds
+QHNEAQQNAFYQVLNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c107240-107073_1 Staphylococcus aureus subsp. aureus JKD6159 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>2491973-2492131_1 Staphylococcus aureus subsp. aureus JKD6159 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c107222-107073_1 Staphylococcus aureus subsp. aureus JKD6159 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c107255-107073_1 Staphylococcus aureus subsp. aureus JKD6159 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c87022-86855_1 Staphylococcus aureus strain C76 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c87004-86855_1 Staphylococcus aureus strain C76 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c87037-86855_1 Staphylococcus aureus strain C76 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c115014-114868_1 Staphylococcus aureus strain GS426 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKI
+>c114996-114868_1 Staphylococcus aureus strain GS426 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKI
+>c115029-114868_1 Staphylococcus aureus strain GS426 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKI
+>991-1164_1 S.aureus spa gene coding for protein A, complete csd
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1015-1164_1 S.aureus spa gene coding for protein A, complete csd
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>997-1164_1 S.aureus spa gene coding for protein A, complete csd
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c85682-85509_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c85334-85161_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c85850-85683_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+NNFNKDQQSAFYEILNIPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c85832-85683_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+QQSAFYEILNIPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c85865-85683_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNIPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c85676-85509_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c85328-85161_1 Staphylococcus aureus strain IVB6195 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c102896-102747_1 Staphylococcus aureus strain NCTC13552 genome assembly, chromosome: 1
+QQNAIYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c102914-102747_1 Staphylococcus aureus strain NCTC13552 genome assembly, chromosome: 1
+AQHDEAQQNAIYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c68435-68268_1 Staphylococcus aureus strain 16CS0212 chromosome, complete genome
+NNFNKDQQSAFYEILNMTNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c68417-68268_1 Staphylococcus aureus strain 16CS0212 chromosome, complete genome
+QQSAFYEILNMTNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c68450-68268_1 Staphylococcus aureus strain 16CS0212 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMTNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>808-981_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>292-459_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+NKFNKDQQGAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>310-459_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+QQGAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>832-981_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>277-459_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+ADAQQNKFNKDQQGAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>814-981_1 Staphylococcus aureus strain AG1275 protein A variant (spa) gene, complete cds
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1895765-1895938_1 Staphylococcus aureus strain NAS_AN_050 chromosome, complete genome
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1895789-1895938_1 Staphylococcus aureus strain NAS_AN_050 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1895771-1895938_1 Staphylococcus aureus strain NAS_AN_050 chromosome, complete genome
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>99567-99740_1 Staphylococcus aureus isolate 21_LA_436 genome assembly, chromosome: I
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c56447-56280_1 Staphylococcus aureus strain RAC013018-A chromosome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c56429-56280_1 Staphylococcus aureus strain RAC013018-A chromosome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c56462-56280_1 Staphylococcus aureus strain RAC013018-A chromosome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>c79005-78838_1 Staphylococcus aureus strain 12-G-51 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c78987-78838_1 Staphylococcus aureus strain 12-G-51 chromosome, complete genome
+QQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c79020-78838_1 Staphylococcus aureus strain 12-G-51 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c86940-86791_1 Staphylococcus aureus strain NCTC13137 genome assembly, chromosome: 1
+QQNAFYQVLNMPNLNADQCNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c86958-86791_1 Staphylococcus aureus strain NCTC13137 genome assembly, chromosome: 1
+AQHDEAQQNAFYQVLNMPNLNADQCNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c122341-122174_1 Staphylococcus aureus strain pt235 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKTLNESQAPK
+>c122323-122174_1 Staphylococcus aureus strain pt235 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKTLNESQAPK
+>c122356-122174_1 Staphylococcus aureus strain pt235 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKTLNESQAP
+>2505728-2505886_1 Staphylococcus aureus strain UCI 28 isolate ST5 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c139048-138899_1 Staphylococcus aureus strain ER04085.3 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c139066-138899_1 Staphylococcus aureus strain ER04085.3 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1865036-1865209_1 Staphylococcus aureus strain S82 chromosome, complete genome
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1865060-1865209_1 Staphylococcus aureus strain S82 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1865042-1865209_1 Staphylococcus aureus strain S82 chromosome, complete genome
+NKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c18537-18364_1 Staphylococcus aureus strain S1 chromosome
+ADNNFNKKQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c18513-18364_1 Staphylococcus aureus strain S1 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c18531-18364_1 Staphylococcus aureus strain S1 chromosome
+NNFNKKQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>415771-415944_1 Staphylococcus aureus strain 329 chromosome, complete genome
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>415795-415944_1 Staphylococcus aureus strain 329 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>415777-415944_1 Staphylococcus aureus strain 329 chromosome, complete genome
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c74682-74515_1 Staphylococcus aureus strain TCD18 chromosome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c74697-74515_1 Staphylococcus aureus strain TCD18 chromosome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c63824-63657_1 Staphylococcus aureus strain NAS_AN_109 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c63806-63657_1 Staphylococcus aureus strain NAS_AN_109 chromosome, complete genome
+QQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c63839-63657_1 Staphylococcus aureus strain NAS_AN_109 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c96207-96034_1 Staphylococcus aureus strain ER04166.3 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQHNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c96183-96034_1 Staphylococcus aureus strain ER04166.3 chromosome, complete genome
+QQNAFYEILHLPNLTEEQHNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c96201-96034_1 Staphylococcus aureus strain ER04166.3 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQHNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2193234-2193392_1 Staphylococcus aureus strain NAS_AN_260 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>1438511-1438681_1 Staphylococcus aureus strain GHA5 chromosome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>1438535-1438681_1 Staphylococcus aureus strain GHA5 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>1438517-1438681_1 Staphylococcus aureus strain GHA5 chromosome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>2419086-2419244_1 Staphylococcus aureus strain C292 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>1924244-1924393_1 Staphylococcus aureus strain UP_378 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGAAKKLNDSQAPK
+>1924226-1924393_1 Staphylococcus aureus strain UP_378 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGAAKKLNDSQAPK
+>c2292870-2292712_1 Staphylococcus aureus strain RMSA24 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKKP
+>1909193-1909366_1 Staphylococcus aureus strain Ma2/A14043 chromosome, complete genome
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c2365778-2365620_1 Staphylococcus aureus strain Ma2/A14043 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>1909217-1909366_1 Staphylococcus aureus strain Ma2/A14043 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>1909199-1909366_1 Staphylococcus aureus strain Ma2/A14043 chromosome, complete genome
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c2690019-2689852_1 Staphylococcus aureus strain UP_1352 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c2690001-2689852_1 Staphylococcus aureus strain UP_1352 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c2690034-2689852_1 Staphylococcus aureus strain UP_1352 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>c136511-136338_1 Staphylococcus aureus strain C295 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c136337-136164_1 Staphylococcus aureus strain C295 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c136487-136338_1 Staphylococcus aureus strain C295 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c136505-136338_1 Staphylococcus aureus strain C295 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c87661-87488_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c88003-87836_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c87985-87836_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c87637-87488_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c88018-87836_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c87655-87488_1 Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c106272-106090_1 Staphylococcus aureus strain pt294 chromosome, complete genome
+SDAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>352-525_1 Staphylococcus aureus strain K3873 SpA IgG-binding domain protein gene, partial cds
+ADNNFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>358-525_1 Staphylococcus aureus strain K3873 SpA IgG-binding domain protein gene, partial cds
+NNFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2089606-2089779_1 Staphylococcus aureus strain UNC_SaCF36 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2089630-2089779_1 Staphylococcus aureus strain UNC_SaCF36 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2089612-2089779_1 Staphylococcus aureus strain UNC_SaCF36 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1948784-1948951_1 Staphylococcus aureus strain UP_926 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIHSLKDDPSQSTNVLGEAKKLNESQAPK
+>1948802-1948951_1 Staphylococcus aureus strain UP_926 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIHSLKDDPSQSTNVLGEAKKLNESQAPK
+>1948769-1948951_1 Staphylococcus aureus strain UP_926 chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIHSLKDDPSQSTNVLGEAKKLNESQAP
+>c128877-128704_1 Staphylococcus aureus strain Colony3 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c128853-128704_1 Staphylococcus aureus strain Colony3 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c128871-128704_1 Staphylococcus aureus strain Colony3 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c67819-67637_1 Staphylococcus aureus strain O331 isolate B114 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAS
+>c98483-98310_1 Staphylococcus aureus strain C8879 chromosome, complete genome
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c98477-98310_1 Staphylococcus aureus strain C8879 chromosome, complete genome
+NKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c145943-145794_1 Staphylococcus aureus strain SA17_S6 chromosome
+QQNAFYQVLNMHNLNADQRNGFIQSLKDDPSQSANVLDEAKKLNDSQAPK
+>c145961-145794_1 Staphylococcus aureus strain SA17_S6 chromosome
+AQHDEAQQNAFYQVLNMHNLNADQRNGFIQSLKDDPSQSANVLDEAKKLNDSQAPK
+>c128533-128360_1 Staphylococcus aureus strain pt297 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c135753-135586_1 Staphylococcus aureus strain ER00594.3 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c135735-135586_1 Staphylococcus aureus strain ER00594.3 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c135768-135586_1 Staphylococcus aureus strain ER00594.3 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>c84895-84728_1 Staphylococcus aureus strain USA600 chromosome, complete genome
+VQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c83924-83751_1 Staphylococcus aureus strain NCTC8726 genome assembly, chromosome: 1
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c84257-84108_1 Staphylococcus aureus strain NCTC8726 genome assembly, chromosome: 1
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDAQAPK
+>c84275-84108_1 Staphylococcus aureus strain NCTC8726 genome assembly, chromosome: 1
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDAQAPK
+>c83918-83751_1 Staphylococcus aureus strain NCTC8726 genome assembly, chromosome: 1
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c2348229-2348056_1 Staphylococcus aureus strain S5 chromosome
+ADNKFNKDQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c2348223-2348056_1 Staphylococcus aureus strain S5 chromosome
+NKFNKDQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c64671-64498_1 Staphylococcus aureus strain C255 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c92606-92433_1 Staphylococcus aureus strain pt265 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILVEAKKLNDAQAPK
+>c92582-92433_1 Staphylococcus aureus strain pt265 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILVEAKKLNDAQAPK
+>c92600-92433_1 Staphylococcus aureus strain pt265 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILVEAKKLNDAQAPK
+>1891871-1892038_1 Staphylococcus aureus strain NAS_AN_212 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVPK
+>1891889-1892038_1 Staphylococcus aureus strain NAS_AN_212 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVPK
+>1891856-1892038_1 Staphylococcus aureus strain NAS_AN_212 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVP
+>c72519-72352_1 Staphylococcus aureus strain 293G chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVPK
+>c72501-72352_1 Staphylococcus aureus strain 293G chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVPK
+>c72534-72352_1 Staphylococcus aureus strain 293G chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQVP
+>2429705-2429863_1 Staphylococcus aureus strain C912 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERVQEVFSESLKDSKNP
+>c82701-82534_1 Staphylococcus aureus strain C102 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c82683-82534_1 Staphylococcus aureus strain C102 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c82716-82534_1 Staphylococcus aureus strain C102 chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAP
+>c426561-426403_1 Staphylococcus aureus strain MOZ66 chromosome, complete genome
+NNYVTDPQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c128208-128035_1 Staphylococcus aureus strain ER09615.3 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c128184-128035_1 Staphylococcus aureus strain ER09615.3 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c128202-128035_1 Staphylococcus aureus strain ER09615.3 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1919845-1920012_1 Staphylococcus aureus strain UP_644 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>1919863-1920012_1 Staphylococcus aureus strain UP_644 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>1919830-1920012_1 Staphylococcus aureus strain UP_644 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>c112401-112237_1 Staphylococcus aureus subsp. aureus M013, complete genome
+KHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c112404-112237_1 Staphylococcus aureus subsp. aureus M013, complete genome
+AKHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c74809-74702_1 Staphylococcus aureus strain TCD23 chromosome
+NADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c74877-74806_1 Staphylococcus aureus strain TCD23 chromosome
+AQHDEAQQNAFYQVLNMPNLNAEM
+>c74859-74815_1 Staphylococcus aureus strain TCD23 chromosome
+QQNAFYQVLNMPNLN
+>c74859-74806_1 Staphylococcus aureus strain TCD23 chromosome
+QQNAFYQVLNMPNLNAEM
+>c129205-129032_1 Staphylococcus aureus strain SA0907 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c77762-77595_1 Staphylococcus aureus strain FORC59 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c77744-77595_1 Staphylococcus aureus strain FORC59 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c77777-77595_1 Staphylococcus aureus strain FORC59 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>1906483-1906650_1 Staphylococcus aureus strain NAS_OP_132 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>1906468-1906650_1 Staphylococcus aureus strain NAS_OP_132 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>1955607-1955780_1 Staphylococcus aureus strain NAS_AN_275 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1955631-1955780_1 Staphylococcus aureus strain NAS_AN_275 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1955613-1955780_1 Staphylococcus aureus strain NAS_AN_275 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2531017-2531181_1 Staphylococcus aureus strain Smith chromosome, complete genome
+TQNNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c121491-121363_1 Staphylococcus aureus strain NCTC13394 genome assembly, chromosome: 1
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQNL
+>c121509-121363_1 Staphylococcus aureus strain NCTC13394 genome assembly, chromosome: 1
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQNL
+>c63820-63647_1 Staphylococcus aureus strain C270 chromosome, complete genome
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c72230-72057_1 Staphylococcus aureus strain C239 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c72206-72057_1 Staphylococcus aureus strain C239 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c72224-72057_1 Staphylococcus aureus strain C239 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c73565-73392_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c73913-73740_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c74081-73914_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>2448726-2448884_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+NNYVTDQQKAFYQVLHLKGITEEQRDQYIKTLREHPERAQEVFSESLKDSKNP
+>c73889-73740_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c74063-73914_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c73541-73392_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c74096-73914_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c73907-73740_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73559-73392_1 Staphylococcus schweitzeri strain NCTC13712 genome assembly, chromosome: 1
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c109091-108918_1 Staphylococcus aureus strain IVB6172 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c108743-108570_1 Staphylococcus aureus strain IVB6172 chromosome, complete genome
+TDNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c109424-109275_1 Staphylococcus aureus strain IVB6172 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c109442-109275_1 Staphylococcus aureus strain IVB6172 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c109085-108918_1 Staphylococcus aureus strain IVB6172 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>596946-597119_1 Staphylococcus aureus strain B9-22D chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>596970-597119_1 Staphylococcus aureus strain B9-22D chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>596952-597119_1 Staphylococcus aureus strain B9-22D chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c117191-117018_1 Staphylococcus aureus strain P1D9C1 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c117167-117018_1 Staphylococcus aureus strain P1D9C1 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c117185-117018_1 Staphylococcus aureus strain P1D9C1 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>1873836-1874009_1 Staphylococcus aureus strain UP_1612 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1874010-1874183_1 Staphylococcus aureus strain UP_1612 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1873860-1874009_1 Staphylococcus aureus strain UP_1612 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1873842-1874009_1 Staphylococcus aureus strain UP_1612 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c86103-85930_1 Staphylococcus aureus strain O326 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c86079-85930_1 Staphylococcus aureus strain O326 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c86097-85930_1 Staphylococcus aureus strain O326 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>436740-436913_1 Staphylococcus aureus strain Syndra chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c127810-127718_1 Staphylococcus aureus strain HL25274 chromosome, complete genome
+NGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c82990-82808_1 Staphylococcus aureus strain SCAID OTT1-2021 (597/2) chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c92523-92350_1 Staphylococcus aureus strain IVB6170 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c93030-92881_1 Staphylococcus aureus strain IVB6170 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c93048-92881_1 Staphylococcus aureus strain IVB6170 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c92499-92350_1 Staphylococcus aureus strain IVB6170 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c92517-92350_1 Staphylococcus aureus strain IVB6170 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c64875-64708_1 Staphylococcus aureus strain C316 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c64857-64708_1 Staphylococcus aureus strain C316 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c64890-64708_1 Staphylococcus aureus strain C316 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAP
+>1916892-1917065_1 Staphylococcus aureus strain NAS_AN_250 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1917069-1917218_1 Staphylococcus aureus strain SauR3 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQTPK
+>1917051-1917218_1 Staphylococcus aureus strain SauR3 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQTPK
+>2694169-2694342_1 Staphylococcus aureus strain IVB6202 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2693845-2693994_1 Staphylococcus aureus strain IVB6202 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSFKDDPSQSANVLREAKKLNESQAPK
+>2693827-2693994_1 Staphylococcus aureus strain IVB6202 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSFKDDPSQSANVLREAKKLNESQAPK
+>c94461-94288_1 Staphylococcus aureus strain P37D0 ESCAFLOR chromosome
+ADNNFNKEQQNAFYEILNISNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c94437-94288_1 Staphylococcus aureus strain P37D0 ESCAFLOR chromosome
+QQNAFYEILNISNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c94455-94288_1 Staphylococcus aureus strain P37D0 ESCAFLOR chromosome
+NNFNKEQQNAFYEILNISNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c129480-129322_1 Staphylococcus aureus strain ER09970.3 chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c129120-128974_1 Staphylococcus aureus strain ER09970.3 chromosome, complete genome
+QNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2730958-2731131_1 Staphylococcus aureus strain WH3018 chromosome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2745943-2746116_1 Staphylococcus aureus strain WH3018 chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c2710539-2710372_1 Staphylococcus aureus strain WH3018 chromosome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c1359628-1359467_1 Staphylococcus aureus strain WH3018 chromosome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQA
+>2746117-2746251_1 Staphylococcus aureus strain WH3018 chromosome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSITFKFL
+>2730832-2730957_1 Staphylococcus aureus strain WH3018 chromosome
+LNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQASK
+>c2710659-2710555_1 Staphylococcus aureus strain WH3018 chromosome
+EGQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>2755343-2755447_1 Staphylococcus aureus strain WH3018 chromosome
+EEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c2710371-2710282_1 Staphylococcus aureus strain WH3018 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGY
+>2745967-2746116_1 Staphylococcus aureus strain WH3018 chromosome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2730982-2731131_1 Staphylococcus aureus strain WH3018 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c2710521-2710372_1 Staphylococcus aureus strain WH3018 chromosome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c1359610-1359467_1 Staphylococcus aureus strain WH3018 chromosome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQA
+>c2710653-2710555_1 Staphylococcus aureus strain WH3018 chromosome
+QRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>2746141-2746251_1 Staphylococcus aureus strain WH3018 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSITFKFL
+>2755346-2755447_1 Staphylococcus aureus strain WH3018 chromosome
+EQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1359643-1359467_1 Staphylococcus aureus strain WH3018 chromosome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQA
+>c2710554-2710372_1 Staphylococcus aureus strain WH3018 chromosome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>2745949-2746116_1 Staphylococcus aureus strain WH3018 chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2730964-2731131_1 Staphylococcus aureus strain WH3018 chromosome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2746123-2746251_1 Staphylococcus aureus strain WH3018 chromosome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSITFKFL
+>c2710365-2710282_1 Staphylococcus aureus strain WH3018 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGY
+>1907204-1907350_1 Staphylococcus aureus strain SA1428 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAK
+>1907213-1907350_1 Staphylococcus aureus strain SA1428 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAK
+>1907210-1907350_1 Staphylococcus aureus strain SA1428 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAK
+>c82044-81871_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c82218-82045_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c81864-81757_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+NKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVS
+>c82194-82045_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c82035-81871_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c81855-81757_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVS
+>c81864-81754_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+NKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSK
+>c82212-82045_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c82038-81871_1 Staphylococcus aureus strain 16CS0209 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c574053-573880_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c573879-573769_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDE
+>c573776-573720_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+KTKEILAEAKKLNDAQAPK
+>c574044-573880_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c573870-573769_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDE
+>c573879-573754_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDERNFSR
+>c573773-573720_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+TKEILAEAKKLNDAQAPK
+>c574047-573880_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c573873-573769_1 Staphylococcus aureus strain AR466 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDE
+>2364712-2364885_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+ADNNFNKEQQNAYYEILNRPNLNEEERNGFIQSLKDDRSQSANLLAEAKKLNESQAPK
+>2365234-2365350_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPS
+>2365069-2365233_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2364736-2364885_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+QQNAYYEILNRPNLNEEERNGFIQSLKDDRSQSANLLAEAKKLNESQAPK
+>2365243-2365350_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPS
+>2365234-2365353_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSV
+>2364718-2364885_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+NNFNKEQQNAYYEILNRPNLNEEERNGFIQSLKDDRSQSANLLAEAKKLNESQAPK
+>2365240-2365350_1 Staphylococcus aureus strain 18082 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPS
+>1959514-1959687_1 Staphylococcus aureus strain MR254 chromosome, complete genome
+ADNKFNKEQQNSFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1959538-1959687_1 Staphylococcus aureus strain MR254 chromosome, complete genome
+QQNSFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1959520-1959687_1 Staphylococcus aureus strain MR254 chromosome, complete genome
+NKFNKEQQNSFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>362-529_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+NNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>182-346_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+QHNEAQQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>179-346_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+AQHNEAQQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>380-529_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+QQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>185-346_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+HNEAQQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>347-529_1 Staphylococcus argenteus strain TD171 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+AEAQQNNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAP
+>c2572800-2572627_1 Staphylococcus aureus strain NCTC1803 genome assembly, chromosome: 1
+ADNTFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c2573307-2573158_1 Staphylococcus aureus strain NCTC1803 genome assembly, chromosome: 1
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c2573325-2573158_1 Staphylococcus aureus strain NCTC1803 genome assembly, chromosome: 1
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c2572794-2572627_1 Staphylococcus aureus strain NCTC1803 genome assembly, chromosome: 1
+NTFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2-91_1 Staphylococcus aureus strain MG8 surface protein A (spa) gene, partial cds
+GFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>704-877_1 Staphylococcus argenteus strain S163 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>728-877_1 Staphylococcus argenteus strain S163 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>710-877_1 Staphylococcus argenteus strain S163 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>530-703_1 Staphylococcus argenteus strain TD13 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+ADNKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>554-703_1 Staphylococcus argenteus strain TD13 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>536-703_1 Staphylococcus argenteus strain TD13 immunoglobulin G binding protein A precursor (spa) gene, complete cds
+NKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>c75431-75258_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+ADNKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c75257-75087_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+VDNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>c75599-75432_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+NNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c75764-75615_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+QQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>2500727-2500885_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRDQYIKTLREHPERAQEVFSESLKDSKNP
+>c75782-75615_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c75581-75432_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+QQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c75407-75258_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c75233-75087_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>c75254-75087_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+DNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>c75614-75432_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+ADAQQNNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAP
+>c75425-75258_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+NKFNQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c75251-75087_1 Staphylococcus roterodami strain Zoo-28 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>c102338-102165_1 Staphylococcus aureus strain HL24830 chromosome, complete genome
+ADNKFNKKQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c102332-102165_1 Staphylococcus aureus strain HL24830 chromosome, complete genome
+NKFNKKQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c100528-100355_1 Staphylococcus aureus strain M92 chromosome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c100522-100355_1 Staphylococcus aureus strain M92 chromosome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c122025-121852_1 Staphylococcus aureus strain ER04181.3 chromosome, complete genome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c72569-72411_1 Staphylococcus argenteus strain Tokyo13064
+NEAQQNAFYQVLNMPNLNAEQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>2422103-2422261_1 Staphylococcus argenteus strain Tokyo13064
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c77446-77273_1 Staphylococcus aureus strain nan_175_F371_ch chromosome, complete genome
+ADNKFNKEQQNVFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c77422-77273_1 Staphylococcus aureus strain nan_175_F371_ch chromosome, complete genome
+QQNVFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c77440-77273_1 Staphylococcus aureus strain nan_175_F371_ch chromosome, complete genome
+NKFNKEQQNVFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c412711-412538_1 Staphylococcus aureus strain IVRI_FBI_645 chromosome
+ADNKFNKEQQNAFYEILHLPNLNKEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>7193-7351_1 Staphylococcus aureus strain IVRI_FBI_645 chromosome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKESKKP
+>c412687-412538_1 Staphylococcus aureus strain IVRI_FBI_645 chromosome
+QQNAFYEILHLPNLNKEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>7193-7336_1 Staphylococcus aureus strain IVRI_FBI_645 chromosome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLK
+>c412705-412538_1 Staphylococcus aureus strain IVRI_FBI_645 chromosome
+NKFNKEQQNAFYEILHLPNLNKEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1861795-1861968_1 Staphylococcus aureus strain 276 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQVPK
+>1861819-1861968_1 Staphylococcus aureus strain 276 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQVPK
+>1861801-1861968_1 Staphylococcus aureus strain 276 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQVPK
+>c71124-70975_1 Staphylococcus aureus strain AR39_O1_merpol chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>c71142-70975_1 Staphylococcus aureus strain AR39_O1_merpol chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>c2337112-2336954_1 Staphylococcus aureus KUH140087 DNA, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>1967048-1967221_1 Staphylococcus aureus strain NGA76 chromosome, complete genome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1966880-1967047_1 Staphylococcus aureus strain NGA76 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1966898-1967047_1 Staphylococcus aureus strain NGA76 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1966865-1967047_1 Staphylococcus aureus strain NGA76 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNESQAP
+>1967054-1967221_1 Staphylococcus aureus strain NGA76 chromosome, complete genome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c124888-124715_1 Staphylococcus sp. MZ8 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c124864-124715_1 Staphylococcus sp. MZ8 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c124882-124715_1 Staphylococcus sp. MZ8 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c76754-76581_1 Staphylococcus aureus strain CHAL5 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c76730-76581_1 Staphylococcus aureus strain CHAL5 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c76748-76581_1 Staphylococcus aureus strain CHAL5 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>2425733-2425891_1 Staphylococcus argenteus MSHR1132 complete genome sequence
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c71238-71065_1 Staphylococcus aureus strain B119 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c71214-71065_1 Staphylococcus aureus strain B119 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c71232-71065_1 Staphylococcus aureus strain B119 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c75539-75366_1 Staphylococcus roterodami strain BDS-54 chromosome, complete genome
+ADNKFNKEQQNAFYEILHMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDTQAPK
+>c75707-75540_1 Staphylococcus roterodami strain BDS-54 chromosome, complete genome
+NNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c75515-75366_1 Staphylococcus roterodami strain BDS-54 chromosome, complete genome
+QQNAFYEILHMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDTQAPK
+>c75722-75540_1 Staphylococcus roterodami strain BDS-54 chromosome, complete genome
+ADAQQNNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAP
+>c75533-75366_1 Staphylococcus roterodami strain BDS-54 chromosome, complete genome
+NKFNKEQQNAFYEILHMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDTQAPK
+>1977422-1977589_1 Staphylococcus aureus strain NGA66a chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAQKLNESQAPK
+>1977440-1977589_1 Staphylococcus aureus strain NGA66a chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAQKLNESQAPK
+>1977407-1977589_1 Staphylococcus aureus strain NGA66a chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAQKLNESQAP
+>c77607-77434_1 Staphylococcus aureus strain X22 chromosome, complete genome
+ADNKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c77781-77608_1 Staphylococcus aureus strain X22 chromosome, complete genome
+ADNKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c77433-77260_1 Staphylococcus aureus strain X22 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c78123-77956_1 Staphylococcus aureus strain X22 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNLLGEAKKLNESQAPK
+>c78288-78139_1 Staphylococcus aureus strain X22 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c78306-78139_1 Staphylococcus aureus strain X22 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c78105-77956_1 Staphylococcus aureus strain X22 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNLLGEAKKLNESQAPK
+>c77757-77608_1 Staphylococcus aureus strain X22 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c78138-77956_1 Staphylococcus aureus strain X22 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNLLGEAKKLNESQAP
+>c77775-77608_1 Staphylococcus aureus strain X22 chromosome, complete genome
+NKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c77601-77434_1 Staphylococcus aureus strain X22 chromosome, complete genome
+NKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c76250-76083_1 Staphylococcus aureus strain UP_1209 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c76415-76266_1 Staphylococcus aureus strain UP_1209 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c76433-76266_1 Staphylococcus aureus strain UP_1209 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c76232-76083_1 Staphylococcus aureus strain UP_1209 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c76265-76083_1 Staphylococcus aureus strain UP_1209 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c65851-65678_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQSPK
+>c66025-65852_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c66193-66026_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+NDFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>2388154-2388312_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+NNYITDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c66001-65852_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c65842-65678_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQSPK
+>c66208-66026_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+ADAQQNDFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c66019-65852_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c65845-65678_1 Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQSPK
+>388849-389022_1 Staphylococcus aureus strain Zoe chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKNLNDAQAPK
+>388873-389022_1 Staphylococcus aureus strain Zoe chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKNLNDAQAPK
+>388855-389022_1 Staphylococcus aureus strain Zoe chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKNLNDAQAPK
+>c89497-89330_1 Staphylococcus argenteus strain MRSA-139-14-168 chromosome, complete genome
+NNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c89479-89330_1 Staphylococcus argenteus strain MRSA-139-14-168 chromosome, complete genome
+QQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAPK
+>c89512-89330_1 Staphylococcus argenteus strain MRSA-139-14-168 chromosome, complete genome
+AEAQQNNFNKDQQSAFYQILNMPNLNEEQRNGFIQSLKDDPSQSNNLLGEAQKLNDSQAP
+>c72375-72202_1 Staphylococcus aureus strain GD1539 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDGPSQSANLLAEAKKLNDAQAPK
+>c72351-72202_1 Staphylococcus aureus strain GD1539 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDGPSQSANLLAEAKKLNDAQAPK
+>c72369-72202_1 Staphylococcus aureus strain GD1539 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDGPSQSANLLAEAKKLNDAQAPK
+>352-525_1 Staphylococcus aureus strain A13830II SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>184-351_1 Staphylococcus aureus strain A13830II SpA IgG-binding domain protein gene, partial cds
+NKFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>376-525_1 Staphylococcus aureus strain A13830II SpA IgG-binding domain protein gene, partial cds
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>169-351_1 Staphylococcus aureus strain A13830II SpA IgG-binding domain protein gene, partial cds
+ADAQQNKFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>358-525_1 Staphylococcus aureus strain A13830II SpA IgG-binding domain protein gene, partial cds
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>526-699_1 Staphylococcus aureus partial spa gene for protein A, strain M3
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLKNAQAPK
+>19-168_1 Staphylococcus aureus partial spa gene for protein A, strain M3
+EQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1-168_1 Staphylococcus aureus partial spa gene for protein A, strain M3
+AQHDEAEQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>550-699_1 Staphylococcus aureus partial spa gene for protein A, strain M3
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLKNAQAPK
+>532-699_1 Staphylococcus aureus partial spa gene for protein A, strain M3
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLKNAQAPK
+>1826991-1827164_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1826817-1826990_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1826310-1826459_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1826292-1826459_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1826841-1826990_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1826823-1826990_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1826997-1827164_1 Staphylococcus aureus strain 7-7 chromosome, complete genome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c325215-325054_1 Staphylococcus aureus strain B2-15A chromosome, complete genome
+HDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>1987271-1987444_1 Staphylococcus aureus strain S6 chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSPNLLSEAKKLNESQAPK
+>1987295-1987444_1 Staphylococcus aureus strain S6 chromosome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSPNLLSEAKKLNESQAPK
+>1987277-1987444_1 Staphylococcus aureus strain S6 chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSPNLLSEAKKLNESQAPK
+>c84496-84338_1 Staphylococcus argenteus isolate 20S00001-1_long genome assembly, chromosome: 1
+NQEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDSQAPK
+>2-91_1 Staphylococcus aureus strain MG2 surface protein A (spa) gene, partial cds
+GFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c78497-78324_1 Staphylococcus aureus strain 30-P-10 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLIEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c79004-78855_1 Staphylococcus aureus strain 30-P-10 chromosome, complete genome
+QQNAFYQVLNIPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c79022-78855_1 Staphylococcus aureus strain 30-P-10 chromosome, complete genome
+AQHDEAQQNAFYQVLNIPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c78473-78324_1 Staphylococcus aureus strain 30-P-10 chromosome, complete genome
+QQNAFYEILHLPNLIEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c78491-78324_1 Staphylococcus aureus strain 30-P-10 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLIEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1981735-1981908_1 Staphylococcus aureus strain UP_1632 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLRNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1981759-1981908_1 Staphylococcus aureus strain UP_1632 chromosome, complete genome
+QQNAFYEILHLRNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1981741-1981908_1 Staphylococcus aureus strain UP_1632 chromosome, complete genome
+NKFNKEQQNAFYEILHLRNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>495-668_1 Staphylococcus aureus KarBane spa gene, partial sequence
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>3-137_1 Staphylococcus aureus KarBane spa gene, partial sequence
+YQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>519-668_1 Staphylococcus aureus KarBane spa gene, partial sequence
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>501-668_1 Staphylococcus aureus KarBane spa gene, partial sequence
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c723424-723251_1 Staphylococcus aureus strain KM24 chromosome
+ADNKFNKEQQNAFYKTLHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c723598-723425_1 Staphylococcus aureus strain KM24 chromosome
+ADNNFNKEQQNAFYDILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c723766-723599_1 Staphylococcus aureus strain KM24 chromosome
+NNFNKDQQSAFYEILNMPNLKEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c723931-723782_1 Staphylococcus aureus strain KM24 chromosome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLDEAKKLNESQAPK
+>c723949-723782_1 Staphylococcus aureus strain KM24 chromosome
+AQHDETQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLDEAKKLNESQAPK
+>c723574-723425_1 Staphylococcus aureus strain KM24 chromosome
+QQNAFYDILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c723748-723599_1 Staphylococcus aureus strain KM24 chromosome
+QQSAFYEILNMPNLKEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c723400-723251_1 Staphylococcus aureus strain KM24 chromosome
+QQNAFYKTLHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c723781-723599_1 Staphylococcus aureus strain KM24 chromosome
+ADAQQNNFNKDQQSAFYEILNMPNLKEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c723592-723425_1 Staphylococcus aureus strain KM24 chromosome
+NNFNKEQQNAFYDILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c723418-723251_1 Staphylococcus aureus strain KM24 chromosome
+NKFNKEQQNAFYKTLHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c71097-70924_1 Staphylococcus aureus strain C906 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c71073-70924_1 Staphylococcus aureus strain C906 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c71091-70924_1 Staphylococcus aureus strain C906 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c57994-57821_1 Staphylococcus aureus strain RAC075018-C chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c57970-57821_1 Staphylococcus aureus strain RAC075018-C chromosome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c57988-57821_1 Staphylococcus aureus strain RAC075018-C chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1988281-1988448_1 Staphylococcus aureus strain UP_1405 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQA
+>1988290-1988448_1 Staphylococcus aureus strain UP_1405 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQA
+>1988287-1988448_1 Staphylococcus aureus strain UP_1405 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQA
+>c153222-153049_1 Staphylococcus aureus strain B4-59C chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c153198-153049_1 Staphylococcus aureus strain B4-59C chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c153216-153049_1 Staphylococcus aureus strain B4-59C chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1187-1360_1 Staphylococcus aureus spa gene for protein A
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1211-1360_1 Staphylococcus aureus spa gene for protein A
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1193-1360_1 Staphylococcus aureus spa gene for protein A
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c126716-126543_1 Staphylococcus aureus strain ER02217.3 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c126692-126543_1 Staphylococcus aureus strain ER02217.3 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c126710-126543_1 Staphylococcus aureus strain ER02217.3 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>526-699_1 Staphylococcus aureus strain K6328 SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c98642-98469_1 Staphylococcus aureus strain P7D0 ESCAFLOR chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c98618-98469_1 Staphylococcus aureus strain P7D0 ESCAFLOR chromosome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c98636-98469_1 Staphylococcus aureus strain P7D0 ESCAFLOR chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c688204-688031_1 Staphylococcus aureus strain R34 chromosome
+ISTKNNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c688198-688031_1 Staphylococcus aureus strain R34 chromosome
+TKNNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c688189-688031_1 Staphylococcus aureus strain R34 chromosome
+NKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c688195-688031_1 Staphylococcus aureus strain R34 chromosome
+KNNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>281-448_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+NKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>107-274_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLDESQAPK
+>125-274_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLDESQAPK
+>299-448_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>275-448_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+AYNKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>92-274_1 Staphylococcus aureus strain MG4 surface protein A (spa) gene, partial cds
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLDESQAP
+>c1837426-1837253_1 Staphylococcus aureus isolate 1549-WT genome assembly, chromosome: I
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1837402-1837253_1 Staphylococcus aureus isolate 1549-WT genome assembly, chromosome: I
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1837420-1837253_1 Staphylococcus aureus isolate 1549-WT genome assembly, chromosome: I
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c123240-123067_1 Staphylococcus aureus strain NAS_AN_157 chromosome, complete genome
+ADNKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c123066-122893_1 Staphylococcus aureus strain NAS_AN_157 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKMLNDAQAPK
+>c123042-122893_1 Staphylococcus aureus strain NAS_AN_157 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKMLNDAQAPK
+>c123234-123067_1 Staphylococcus aureus strain NAS_AN_157 chromosome, complete genome
+NKFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c123060-122893_1 Staphylococcus aureus strain NAS_AN_157 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKMLNDAQAPK
+>c130035-129868_1 Staphylococcus aureus strain C312 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c130017-129868_1 Staphylococcus aureus strain C312 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c130050-129868_1 Staphylococcus aureus strain C312 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>553-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6556
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>577-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6556
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>559-726_1 Staphylococcus aureus partial spa gene for immunoglobulin G binding protein A, isolate H6556
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c89088-88915_1 Staphylococcus aureus strain CC5 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c89064-88915_1 Staphylococcus aureus strain CC5 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c89082-88915_1 Staphylococcus aureus strain CC5 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c93729-93562_1 Staphylococcus aureus strain C871 chromosome, complete genome
+NNFNKDQQSSFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c93711-93562_1 Staphylococcus aureus strain C871 chromosome, complete genome
+QQSSFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c93744-93562_1 Staphylococcus aureus strain C871 chromosome, complete genome
+ADAQQNNFNKDQQSSFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>281-448_1 Staphylococcus aureus strain MG1 surface protein A (spa) gene, partial cds
+NKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSLSEEILAEAKKLNDAQAPK
+>299-448_1 Staphylococcus aureus strain MG1 surface protein A (spa) gene, partial cds
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSLSEEILAEAKKLNDAQAPK
+>275-448_1 Staphylococcus aureus strain MG1 surface protein A (spa) gene, partial cds
+AYNKFNKDQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSLSEEILAEAKKLNDAQAPK
+>c66536-66363_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c66710-66537_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c66878-66711_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c66512-66363_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c66686-66537_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c66860-66711_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c66893-66711_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c66704-66537_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c66530-66363_1 Staphylococcus aureus strain JW_comp_novo chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c82382-82209_1 Staphylococcus aureus strain C80 chromosome, complete genome
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c82358-82209_1 Staphylococcus aureus strain C80 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c82376-82209_1 Staphylococcus aureus strain C80 chromosome, complete genome
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c83856-83683_1 Staphylococcus aureus strain C246 chromosome, complete genome
+ADNNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c83850-83683_1 Staphylococcus aureus strain C246 chromosome, complete genome
+NNFNKDQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>352-525_1 Staphylococcus aureus strain A17988II SpA IgG-binding domain protein gene, partial cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSPNLLSEAKKLNESQAPK
+>644-817_1 Staphylococcus aureus strain AO124 truncated protein A (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>305-469_1 Staphylococcus aureus strain AO124 truncated protein A (spa) gene, complete cds
+KINKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>308-469_1 Staphylococcus aureus strain AO124 truncated protein A (spa) gene, complete cds
+INKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>118-276_1 Staphylococcus aureus strain AO124 truncated protein A (spa) gene, complete cds
+DEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>c128877-128704_1 Staphylococcus aureus strain Colony583 chromosome
+ADNNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c128853-128704_1 Staphylococcus aureus strain Colony583 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c128871-128704_1 Staphylococcus aureus strain Colony583 chromosome
+NNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c128877-128704_1 Staphylococcus aureus strain Colony579 chromosome
+ADNNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c128853-128704_1 Staphylococcus aureus strain Colony579 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c128871-128704_1 Staphylococcus aureus strain Colony579 chromosome
+NNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>2019898-2020065_1 Staphylococcus aureus strain N10CSA27 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>2019916-2020065_1 Staphylococcus aureus strain N10CSA27 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>2019883-2020065_1 Staphylococcus aureus strain N10CSA27 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAP
+>c1040-867_1 Staphylococcus aureus strain JP1 Spa (spa) gene, complete cds
+ADNXFNKEQQNAFYEILXXPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1016-867_1 Staphylococcus aureus strain JP1 Spa (spa) gene, complete cds
+QQNAFYEILXXPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1034-867_1 Staphylococcus aureus strain JP1 Spa (spa) gene, complete cds
+NXFNKEQQNAFYEILXXPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>515-688_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>173-340_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>2-157_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+EAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>191-340_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>539-688_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>158-340_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>521-688_1 Staphylococcus aureus partial spa gene for protein A, strain M1
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>415-576_1 Staphylococcus aureus strain K18229 SpA IgG-binding domain protein gene, partial cds
+LNEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>418-576_1 Staphylococcus aureus strain K18229 SpA IgG-binding domain protein gene, partial cds
+NEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>412-576_1 Staphylococcus aureus strain K18229 SpA IgG-binding domain protein gene, partial cds
+NLNEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c123337-123164_1 Staphylococcus aureus strain K094 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123338-123165_1 Staphylococcus aureus strain K245 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123314-123165_1 Staphylococcus aureus strain K245 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123332-123165_1 Staphylococcus aureus strain K245 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123356-123183_1 Staphylococcus aureus strain K276 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123332-123183_1 Staphylococcus aureus strain K276 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123350-123183_1 Staphylococcus aureus strain K276 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123364-123191_1 Staphylococcus aureus strain K078 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123340-123191_1 Staphylococcus aureus strain K078 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123358-123191_1 Staphylococcus aureus strain K078 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123355-123182_1 Staphylococcus aureus strain K275 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123331-123182_1 Staphylococcus aureus strain K275 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123349-123182_1 Staphylococcus aureus strain K275 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123365-123192_1 Staphylococcus aureus strain K076 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123341-123192_1 Staphylococcus aureus strain K076 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123359-123192_1 Staphylococcus aureus strain K076 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c69079-68978_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSL
+>c69238-69080_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNDAQAPK
+>c69412-69254_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c69070-68978_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+KFNKEQQNAFYEILHLPNLTEEQRNGFIQSL
+>c66775-66701_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+LKDDPSVSKEILAEAKKLNDAQAPK
+>c69073-68978_1 Staphylococcus aureus strain CC49/ST49-MSSA chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSL
+>c123390-123217_1 Staphylococcus aureus strain K112 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123366-123217_1 Staphylococcus aureus strain K112 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123384-123217_1 Staphylococcus aureus strain K112 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>530-754_1 Staphylococcus aureus subsp. aureus partial spa gene for protein A
+ADNKFNKEQQNAFYEILHLPNLNEEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKE
+>599-754_1 Staphylococcus aureus subsp. aureus partial spa gene for protein A
+EEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>590-754_1 Staphylococcus aureus subsp. aureus partial spa gene for protein A
+NLNEEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c2498400-2498227_1 Staphylococcus aureus strain UP_794 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>2113852-2114010_1 Staphylococcus aureus strain UP_794 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c2498376-2498227_1 Staphylococcus aureus strain UP_794 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c2498394-2498227_1 Staphylococcus aureus strain UP_794 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c123367-123200_1 Staphylococcus aureus strain K216 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQA
+>c123343-123200_1 Staphylococcus aureus strain K216 chromosome
+QQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQA
+>c123361-123200_1 Staphylococcus aureus strain K216 chromosome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQA
+>1937819-1937986_1 Staphylococcus aureus strain E1185_IV_ST12 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>1937837-1937986_1 Staphylococcus aureus strain E1185_IV_ST12 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>1937804-1937986_1 Staphylococcus aureus strain E1185_IV_ST12 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>362-535_1 Staphylococcus aureus strain FRI 722 immunoglobulin G binding protein A-like (spa) gene, partial sequence
+ADNNFNKEQQNAFYEILNMPNLNEEQRIGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>386-535_1 Staphylococcus aureus strain FRI 722 immunoglobulin G binding protein A-like (spa) gene, partial sequence
+QQNAFYEILNMPNLNEEQRIGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>368-535_1 Staphylococcus aureus strain FRI 722 immunoglobulin G binding protein A-like (spa) gene, partial sequence
+NNFNKEQQNAFYEILNMPNLNEEQRIGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c74339-74166_1 Staphylococcus aureus strain SCDR-SA1 chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c122268-122095_1 Staphylococcus aureus strain P50D0 ESCAFLOR chromosome
+ADNNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c122244-122095_1 Staphylococcus aureus strain P50D0 ESCAFLOR chromosome
+QQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c122262-122095_1 Staphylococcus aureus strain P50D0 ESCAFLOR chromosome
+NNFNKEQQNAFYEILNMSNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c105634-105467_1 Staphylococcus aureus strain XN108, complete genome
+NKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c105616-105467_1 Staphylococcus aureus strain XN108, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c105649-105467_1 Staphylococcus aureus strain XN108, complete genome
+ADAQQNKFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAP
+>634-807_1 Staphylococcus aureus strain AI343 truncated protein A (spa) gene, complete cds
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1106482-1106378_1 Staphylococcus aureus strain K18 chromosome, complete genome
+EEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1106482-1106378_6 Staphylococcus aureus strain K18 chromosome, complete genome
+FGACASFSFLASAKRLALWLGSSFKLWMKPLRCSS
+>c1106479-1106378_1 Staphylococcus aureus strain K18 chromosome, complete genome
+EQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c1106479-1106378_6 Staphylococcus aureus strain K18 chromosome, complete genome
+FGACASFSFLASAKRLALWLGSSFKLWMKPLRCS
+>c1106550-1106500_1 Staphylococcus aureus strain K18 chromosome, complete genome
+ADNKFNKEQQNAFYEIL
+>c1106550-1106500_2 Staphylococcus aureus strain K18 chromosome, complete genome
+RITNSTKNNKMLSMKSX
+>c73771-73598_1 Staphylococcus aureus DNA, complete genome, strain: GN3
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73747-73598_1 Staphylococcus aureus DNA, complete genome, strain: GN3
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c73765-73598_1 Staphylococcus aureus DNA, complete genome, strain: GN3
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>1239316-1239438_1 Staphylococcus aureus strain K17 chromosome, complete genome
+YMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1239316-1239438_6 Staphylococcus aureus strain K17 chromosome, complete genome
+FGACASFSFLASAKRLALWLGSSFKLWMKPLRCSSFKLGMX
+>1239267-1239320_1 Staphylococcus aureus strain K17 chromosome, complete genome
+ADNKFNKEQQNAFYEILH
+>1239267-1239320_2 Staphylococcus aureus strain K17 chromosome, complete genome
+RITNSTKNNKMLSMKSYX
+>1239319-1239438_1 Staphylococcus aureus strain K17 chromosome, complete genome
+MPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>1239319-1239438_6 Staphylococcus aureus strain K17 chromosome, complete genome
+FGACASFSFLASAKRLALWLGSSFKLWMKPLRCSSFKLGX
+>c76266-76099_1 Staphylococcus aureus strain EDCC5464 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c76248-76099_1 Staphylococcus aureus strain EDCC5464 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c76281-76099_1 Staphylococcus aureus strain EDCC5464 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAP
+>c71358-71185_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c71526-71359_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLAEAKKLNDAQAPK
+>c71508-71359_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLAEAKKLNDAQAPK
+>c71334-71185_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c71541-71359_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLAEAKKLNDAQAP
+>c71352-71185_1 Staphylococcus aureus strain 05-RR-90 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c94298-94125_1 Staphylococcus aureus strain ER02947.3 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c94274-94125_1 Staphylococcus aureus strain ER02947.3 chromosome, complete genome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c94292-94125_1 Staphylococcus aureus strain ER02947.3 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c671140-670973_1 Staphylococcus aureus strain PMB196-1 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c671122-670973_1 Staphylococcus aureus strain PMB196-1 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c671155-670973_1 Staphylococcus aureus strain PMB196-1 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c71041-70928_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+ADNNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKRRP
+>c70956-70867_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+ASSKALKDDPSVSKEILAEAKKLNDAQAPK
+>c71200-71042_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c71026-70928_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+NKEQQNAFYEILHLPNLNEEQRNGFIQSLKRRP
+>c70947-70867_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+KALKDDPSVSKEILAEAKKLNDAQAPK
+>c71035-70928_1 Staphylococcus aureus subsp. aureus 6850, complete genome
+NNFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKRRP
+>c96824-96687_1 Staphylococcus aureus strain NCTC13395 genome assembly, chromosome: 1
+DEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQNL
+>c98397-98230_1 Staphylococcus aureus strain FORC_026 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c98379-98230_1 Staphylococcus aureus strain FORC_026 chromosome, complete genome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c98412-98230_1 Staphylococcus aureus strain FORC_026 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAP
+>c59715-59542_1 Staphylococcus aureus strain GHA3 chromosome
+ADNKFNKXQQNAFYEIXXXPNXNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c59691-59542_1 Staphylococcus aureus strain GHA3 chromosome
+QQNAFYEIXXXPNXNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c59709-59542_1 Staphylococcus aureus strain GHA3 chromosome
+NKFNKXQQNAFYEIXXXPNXNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c123368-123195_1 Staphylococcus aureus strain K329 chromosome
+ADNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123344-123195_1 Staphylococcus aureus strain K329 chromosome
+QQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123362-123195_1 Staphylococcus aureus strain K329 chromosome
+NKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c59896-59729_1 Staphylococcus aureus strain GHA6 chromosome
+NNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>c59728-59555_1 Staphylococcus aureus strain GHA6 chromosome
+ADNKFNKXQQNAFYEXXXXPNXNEEQRNGFIQSLKDDPXQSANLLAEAKKLNDAQAPK
+>c59878-59729_1 Staphylococcus aureus strain GHA6 chromosome
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAPK
+>c59704-59555_1 Staphylococcus aureus strain GHA6 chromosome
+QQNAFYEXXXXPNXNEEQRNGFIQSLKDDPXQSANLLAEAKKLNDAQAPK
+>c59911-59729_1 Staphylococcus aureus strain GHA6 chromosome
+AEAQQNNFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQAP
+>c59722-59555_1 Staphylococcus aureus strain GHA6 chromosome
+NKFNKXQQNAFYEXXXXPNXNEEQRNGFIQSLKDDPXQSANLLAEAKKLNDAQAPK
+>c103215-102991_1 Staphylococcus aureus strain M37 chromosome
+ADNKFNKEQQNAFYEILHLPNLNEEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKE
+>c103149-102991_1 Staphylococcus aureus strain M37 chromosome
+NEEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c790004-789831_1 Staphylococcus aureus strain GHA8 chromosome
+ADNNFNKEQQNAFYEIXXXXNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c789980-789831_1 Staphylococcus aureus strain GHA8 chromosome
+QQNAFYEIXXXXNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c789998-789831_1 Staphylococcus aureus strain GHA8 chromosome
+NNFNKEQQNAFYEIXXXXNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c69052-68879_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLNEEKRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c69220-69053_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c69202-69053_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>c69028-68879_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+QQNAFYEILNMPNLNEEKRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c69235-69053_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c69046-68879_1 Staphylococcus aureus strain IVB6154 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLNEEKRNGFIQSLKDDPSQSANLLAEAKKLNESQAPK
+>c1905491-1905333_1 Staphylococcus aureus strain 6538P chromosome, complete genome
+NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>c1905326-1905279_1 Staphylococcus aureus strain 6538P chromosome, complete genome
+NKFNKEQQNAFYEILH
+>c1905326-1905279_2 Staphylococcus aureus strain 6538P chromosome, complete genome
+TNSTKNNKMLSMKSYX
+>c85354-85193_1 Staphylococcus aureus strain IVB6168 chromosome, complete genome
+LNEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>2437475-2437633_1 Staphylococcus aureus strain IVB6168 chromosome, complete genome
+NNYVTDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c85351-85193_1 Staphylococcus aureus strain IVB6168 chromosome, complete genome
+NEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c85357-85193_1 Staphylococcus aureus strain IVB6168 chromosome, complete genome
+NLNEEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>c105623-105474_1 Staphylococcus aureus strain ER04436.3 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLADANK
+>c105614-105474_1 Staphylococcus aureus strain ER04436.3 chromosome, complete genome
+KFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLADANK
+>c105617-105474_1 Staphylococcus aureus strain ER04436.3 chromosome, complete genome
+NKFNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLADANK
+>c98642-98418_1 Staphylococcus aureus strain C868 chromosome, complete genome
+ADNKFNKEQQNAFYEILHLPNLNEEQRNGFYEILHLPNLTEEQRNGFIQSLKDDPSVSKE
+>c98576-98418_1 Staphylococcus aureus strain C868 chromosome, complete genome
+NEEQRNGFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c98582-98418_1 Staphylococcus aureus strain C868 chromosome, complete genome
+NLNEEQRNGFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1894138-1894311_1 Staphylococcus argenteus strain RIVM_M020832 chromosome, complete genome
+ADNKFNQEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1894144-1894311_1 Staphylococcus argenteus strain RIVM_M020832 chromosome, complete genome
+NKFNQEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2480303-2480476_1 Staphylococcus aureus strain WH9628 chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>2480309-2480476_1 Staphylococcus aureus strain WH9628 chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>2487168-2487347_1 Staphylococcus aureus strain WH9628 chromosome
+DKRYNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>460-603_1 Staphylococcus aureus mutant strain V1 spa gene for protein A
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEA
+>484-603_1 Staphylococcus aureus mutant strain V1 spa gene for protein A
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEA
+>466-603_1 Staphylococcus aureus mutant strain V1 spa gene for protein A
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEA
+>c123576-123403_1 Staphylococcus aureus strain GHA1 chromosome
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQXANLXXEAKKXNXXQAPK
+>c123552-123403_1 Staphylococcus aureus strain GHA1 chromosome
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQXANLXXEAKKXNXXQAPK
+>c123402-123229_1 Staphylococcus aureus strain GHA1 chromosome
+AXNKFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c123570-123403_1 Staphylococcus aureus strain GHA1 chromosome
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQXANLXXEAKKXNXXQAPK
+>c65840-65673_1 Staphylococcus aureus strain NCTC5660 genome assembly, chromosome: 1
+NDFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQSPK
+>c65822-65673_1 Staphylococcus aureus strain NCTC5660 genome assembly, chromosome: 1
+QQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQSPK
+>c65855-65673_1 Staphylococcus aureus strain NCTC5660 genome assembly, chromosome: 1
+ADAQQNDFNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGEAKKLNDAQSP
+>c93292-93119_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+ADNNFNKEQQNAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c93442-93293_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>2537643-2537801_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+NNYVRDQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSESLKDSKNP
+>c93460-93293_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK
+>c93268-93119_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+QQNAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c93286-93119_1 Staphylococcus aureus strain IVB6171 chromosome, complete genome
+NNFNKEQQNAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>349-489_1 Staphylococcus aureus strain EG2 immunoglobulin G-binding protein A (spa) gene, partial cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSE
+>373-489_1 Staphylococcus aureus strain EG2 immunoglobulin G-binding protein A (spa) gene, partial cds
+QQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSE
+>355-489_1 Staphylococcus aureus strain EG2 immunoglobulin G-binding protein A (spa) gene, partial cds
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLSE
+>126-287_1 Staphylococcus pseudintermedius strain D27213 immunoglobin G-binding protein A (spa1) gene, partial cds
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>3-116_1 Staphylococcus pseudintermedius strain D27213 immunoglobin G-binding protein A (spa1) gene, partial cds
+LPNLTEEQRNGFIQSLKDDPSVSKDILVEAKKLNDSQA
+>3-116_6 Staphylococcus pseudintermedius strain D27213 immunoglobin G-binding protein A (spa1) gene, partial cds
+AWLSFNFLASTRISLLTLGSSLRLWMKPLRCSSVRFGX
+>123-287_1 Staphylococcus pseudintermedius strain D27213 immunoglobin G-binding protein A (spa1) gene, partial cds
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>292-459_1 Staphylococcus aureus strain NT937 protein A (spa) gene, partial cds
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>310-459_1 Staphylococcus aureus strain NT937 protein A (spa) gene, partial cds
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>277-459_1 Staphylococcus aureus strain NT937 protein A (spa) gene, partial cds
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>c74584-74477_1 Staphylococcus aureus isolate MVF-7 chromosome, complete genome
+VDNNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKD
+>c74474-74412_1 Staphylococcus aureus isolate MVF-7 chromosome, complete genome
+PSVSKEILAEAKKLNDAQAPK
+>c74935-74768_1 Staphylococcus aureus isolate MVF-7 chromosome, complete genome
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNDSQAPK
+>c74569-74477_1 Staphylococcus aureus isolate MVF-7 chromosome, complete genome
+NKEQQNAFYEILHLPNLTEEQRNGFIQSLKD
+>c74578-74477_1 Staphylococcus aureus isolate MVF-7 chromosome, complete genome
+NNFNKEQQNAFYEILHLPNLTEEQRNGFIQSLKD
+>364-531_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+NNFDKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>532-630_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+ADNNFNKEQQNAFYEILNMPNLNEEQRNGFIQS
+>373-531_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+DKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>556-630_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+QQNAFYEILNMPNLNEEQRNGFIQS
+>349-531_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+ADAQQNNFDKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAP
+>538-630_1 Staphylococcus aureus gene (spa) fragment encoding protein A
+NNFNKEQQNAFYEILNMPNLNEEQRNGFIQS
+>66444-66605_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+YNEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>64656-64817_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>66102-66260_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+YSDEQQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSANILVEAKNMNVNQTP
+>64326-64481_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+INDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>66279-66434_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+FDEAQQNAFYEIVNLPNLTEEQRNGFIQSLKDDPSVSKDILVEAKKLNDSQA
+>64491-64646_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDTQA
+>65937-66077_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+QQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQ
+>66282-66434_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DEAQQNAFYEIVNLPNLTEEQRNGFIQSLKDDPSVSKDILVEAKKLNDSQA
+>65931-66077_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+EAQQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQ
+>64332-64481_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>2531874-2531996_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+AQQNAFYSVLHNDDLSEEQRDAYIGRIKEDPDQSQEVFVES
+>2531874-2531996_2 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+RNKMRFTAYYTTMTYPKSNVMHTLVELKKIQIKAKKYLLSL
+>66441-66605_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DYNEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>64653-64817_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DYSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>66099-66260_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DYSDEQQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSANILVEAKNMNVNQTP
+>64323-64481_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+NINDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>64488-64646_1 Staphylococcus pseudintermedius strain NCTC5661 genome assembly, chromosome: 1
+DYSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDTQA
+>2731685-2731846_1 Staphylococcus pseudintermedius strain 063228 chromosome, complete genome
+GDNNAEAQQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQ
+>52908-53063_1 Staphylococcus pseudintermedius strain DSP027 chromosome, complete genome
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDTQA
+>52905-53063_1 Staphylococcus pseudintermedius strain DSP027 chromosome, complete genome
+DYSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDTQA
+>301-471_1 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+ENNFNEAQQNAFYEILHLPYLTEEQRNGFIQSLKDDPSVSNDILAEAKKLNDSQAPQ
+>1-117_1 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+LPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>316-471_1 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+EAQQNAFYEILHLPYLTEEQRNGFIQSLKDDPSVSNDILAEAKKLNDSQAPQ
+>139-297_1 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+DAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>133-297_1 Staphylococcus hyicus strain 0403 protein A (spa) gene, partial cds
+NFDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>2468-2554_1 Staphylococcus aureus hlgA, orfX, spa genes, partial and complete cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRNV
+>2468-2551_1 Staphylococcus aureus hlgA, orfX, spa genes, partial and complete cds
+ADNNFNKEQQNAFYEILNMPNLNEEQRN
+>2474-2551_1 Staphylococcus aureus hlgA, orfX, spa genes, partial and complete cds
+NNFNKEQQNAFYEILNMPNLNEEQRN
+>c53180-53013_1 Staphylococcus aureus isolate Staphylococcus aureus 171 genome assembly, chromosome: I
+NNFNKDQQSAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c53162-53013_1 Staphylococcus aureus isolate Staphylococcus aureus 171 genome assembly, chromosome: I
+QQSAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c53195-53013_1 Staphylococcus aureus isolate Staphylococcus aureus 171 genome assembly, chromosome: I
+ADAQQNNFNKDQQSAFYEILNMPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAP
+>154-315_1 Staphylococcus hyicus strain MA389 protein A (spa) gene, partial cds
+FDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>1-135_1 Staphylococcus hyicus strain MA389 protein A (spa) gene, partial cds
+FYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>157-315_1 Staphylococcus hyicus strain MA389 protein A (spa) gene, partial cds
+DAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>151-315_1 Staphylococcus hyicus strain MA389 protein A (spa) gene, partial cds
+NFDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>126-287_1 Staphylococcus pseudintermedius strain 118918 immunoglobin G-binding protein A (spa1) gene, partial cds
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAAK
+>123-287_1 Staphylococcus pseudintermedius strain 118918 immunoglobin G-binding protein A (spa1) gene, partial cds
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAAK
+>66686-66832_1 Staphylococcus pseudintermedius strain HSP285 chromosome, complete genome
+QQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSANILVEAKNMNVNQTP
+>25-174_1 Staphylococcus aureus strain SA5 protein A gene, partial cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>7-174_1 Staphylococcus aureus strain SA5 protein A gene, partial cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>48196-48351_1 Staphylococcus pseudintermedius ED99, complete genome
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>48193-48351_1 Staphylococcus pseudintermedius ED99, complete genome
+DYSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>1155189-1155350_1 Staphylococcus pseudintermedius strain AK9 chromosome, complete genome
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>1155186-1155350_1 Staphylococcus pseudintermedius strain AK9 chromosome, complete genome
+DYSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>82374-82529_1 Staphylococcus pseudintermedius strain DSP020 chromosome, complete genome
+INDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>82380-82529_1 Staphylococcus pseudintermedius strain DSP020 chromosome, complete genome
+DAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>82371-82529_1 Staphylococcus pseudintermedius strain DSP020 chromosome, complete genome
+NINDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>102170-102331_1 Staphylococcus pseudintermedius strain 6127-64107 chromosome, complete genome
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>102167-102331_1 Staphylococcus pseudintermedius strain 6127-64107 chromosome, complete genome
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>82785-82946_1 Staphylococcus pseudintermedius strain 081661, complete genome
+ANINDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDTQA
+>300655-300816_1 Staphylococcus pseudintermedius strain VB16 chromosome, complete genome
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>300652-300816_1 Staphylococcus pseudintermedius strain VB16 chromosome, complete genome
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>c1045920-1045765_1 Staphylococcus pseudintermedius strain KCTC 43134 chromosome, complete genome
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKDILVEAKKLNDSQA
+>c1045923-1045765_1 Staphylococcus pseudintermedius strain KCTC 43134 chromosome, complete genome
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKDILVEAKKLNDSQA
+>304-474_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+ENNFDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>136-294_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+FDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>1-117_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+LPNLTDEQRNGYIQSLKDDPSVSTNILQQAQATNANQAP
+>316-474_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+DAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>139-294_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+DAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>133-294_1 Staphylococcus hyicus strain 39:1 protein A (spa) gene, partial cds
+NFDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>491-649_1 Staphylococcus hyicus strain 18:1 protein A (spa) gene, partial cds
+NEAQQNAFYEILHLPYLTEEQRNGFIQSLKDDPSVSNDILAEAKKLNDSQAPQ
+>193-339_1 Staphylococcus hyicus strain CCUG 15602 IgG-binding protein A (spa) gene, complete cds
+QQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSANILQQAQATNANQAP
+>187-339_1 Staphylococcus hyicus strain CCUG 15602 IgG-binding protein A (spa) gene, complete cds
+DAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSANILQQAQATNANQAP
+>c140237-140076_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+FDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c140579-140433_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+QQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSTNILQQAQATNANQAP
+>c52836-52714_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+QRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>c140585-140433_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+DAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSTNILQQAQATNANQAP
+>c140240-140076_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+NFDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c52842-52714_1 Staphylococcus hyicus strain SG-7 chromosome, complete genome
+DAQRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>c172371-172210_1 Staphylococcus hyicus strain NCTC10350 genome assembly, chromosome: 1
+FDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c172368-172210_1 Staphylococcus hyicus strain NCTC10350 genome assembly, chromosome: 1
+DAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c172374-172210_1 Staphylococcus hyicus strain NCTC10350 genome assembly, chromosome: 1
+NFDAAQQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c144378-144217_1 Staphylococcus schleiferi strain 1360-13, complete genome
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c144543-144388_1 Staphylococcus schleiferi strain 1360-13, complete genome
+YTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c144708-144553_1 Staphylococcus schleiferi strain 1360-13, complete genome
+VNEDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c144876-144727_1 Staphylococcus schleiferi strain 1360-13, complete genome
+DQQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSADILIQAKNVNVAQAP
+>c145050-144907_1 Staphylococcus schleiferi strain 1360-13, complete genome
+QQNAFAEVLNLPNLNEDQRNGFIQSLKDDPSASKDVLAEAQKLNDSQA
+>2404500-2404640_1 Staphylococcus schleiferi strain 1360-13, complete genome
+EQKAFYQVLHMDGITEEQRDQYIKQLHEDKNSAQNVFSESIKDSQRP
+>2404500-2404640_2 Staphylococcus schleiferi strain 1360-13, complete genome
+NKKHFIKYYIWMVLRKSNAINTLNNYMKIKTVHKTYSLNQLKIANVX
+>c144702-144553_1 Staphylococcus schleiferi strain 1360-13, complete genome
+EDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c144885-144727_1 Staphylococcus schleiferi strain 1360-13, complete genome
+HSADQQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSADILIQAKNVNVAQAP
+>c144711-144553_1 Staphylococcus schleiferi strain 1360-13, complete genome
+NVNEDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c144381-144217_1 Staphylococcus schleiferi strain 1360-13, complete genome
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c144546-144388_1 Staphylococcus schleiferi strain 1360-13, complete genome
+DYTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c192336-192175_1 Staphylococcus coagulans strain 1031336 chromosome
+YSAEQQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c192666-192511_1 Staphylococcus coagulans strain 1031336 chromosome
+LNEDQQNAFYEILNLPNLKDDQRNGFIQSLKDDPSVSKDVLAEAKKLSDSQA
+>c192831-192685_1 Staphylococcus coagulans strain 1031336 chromosome
+QQNAFYEIVNLPNLTDVQRNGFIQSLKDDPSASANVLIEAKNTNVAQAP
+>2480194-2480334_1 Staphylococcus coagulans strain 1031336 chromosome
+EQKAFYQVLHMDGITEEQRDQYIKQLHEDKNSAQNVFSESIKDSQRP
+>2480194-2480334_2 Staphylococcus coagulans strain 1031336 chromosome
+NKKHFIKYYIWMVLRKSNAINTSNNYMKIKTVHKTYSLNQLKIANVX
+>c192660-192511_1 Staphylococcus coagulans strain 1031336 chromosome
+EDQQNAFYEILNLPNLKDDQRNGFIQSLKDDPSVSKDVLAEAKKLSDSQA
+>c192324-192175_1 Staphylococcus coagulans strain 1031336 chromosome
+QQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c192489-192346_1 Staphylococcus coagulans strain 1031336 chromosome
+QQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDIQA
+>c192843-192685_1 Staphylococcus coagulans strain 1031336 chromosome
+HSEAQQNAFYEIVNLPNLTDVQRNGFIQSLKDDPSASANVLIEAKNTNVAQAP
+>c193014-192868_1 Staphylococcus coagulans strain 1031336 chromosome
+EDQQNAFSEVVNLPNLNEDQRNGFIQSIKDDPSASQDVLNEAKKLNDSQ
+>c192339-192175_1 Staphylococcus coagulans strain 1031336 chromosome
+DYSAEQQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c192504-192346_1 Staphylococcus coagulans strain 1031336 chromosome
+DFSAEQQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDIQA
+>c193023-192868_1 Staphylococcus coagulans strain 1031336 chromosome
+NTAEDQQNAFSEVVNLPNLNEDQRNGFIQSIKDDPSASQDVLNEAKKLNDSQ
+>c149726-149565_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+YSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c150056-149901_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+YTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c149891-149736_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+YTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c150209-150066_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+QQNAFAEILDLPNLNENQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c150209-150066_6 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+AWLSFNFLASARMSLLTLGSSLRLWMKPLRWFSLRLGKSKISAKAFCX
+>c150215-150066_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+EAQQNAFAEILDLPNLNENQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c149729-149565_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+DYSEAQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c150059-149901_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+DYTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c149894-149736_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+DYTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c150251-150066_1 Staphylococcus schleiferi strain IVB6184 chromosome, complete genome
+AEENNANATNTAEAQQNAFAEILDLPNLNENQRNGFIQSLKDDPSVSKDILAEAKKLNDS
+>c191238-191068_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+ENNFNEAQQNAFYEILHLPYLTEEQRNGFIQSLKDDPSVSNEILAEAKKLNDSQAPQ
+>c191403-191242_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+FDAAQQSAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c191580-191422_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+FDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQTP
+>c191745-191599_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+QQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>c98384-98262_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+QRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>c191226-191068_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+NEAQQNAFYEILHLPYLTEEQRNGFIQSLKDDPSVSNEILAEAKKLNDSQAPQ
+>c191400-191242_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+DAAQQSAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c191751-191599_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+DAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQAP
+>c191577-191422_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+DAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQTP
+>c191406-191242_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+NFDAAQQSAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+>c191583-191422_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+NFDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQAQATNANQTP
+>c98390-98262_1 Staphylococcus hyicus strain MM2101 chromosome, complete genome
+DAQRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>c98150-97989_1 Staphylococcus coagulans strain 1031373 chromosome
+YSAEQQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c98315-98160_1 Staphylococcus coagulans strain 1031373 chromosome
+FSADQQNAFYEILNLPNLNEEQRNGFIQSLKDDPSVSKDILAEAKKLNDIQA
+>c98480-98325_1 Staphylococcus coagulans strain 1031373 chromosome
+FSADQQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c98645-98490_1 Staphylococcus coagulans strain 1031373 chromosome
+LNEDQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>c98810-98664_1 Staphylococcus coagulans strain 1031373 chromosome
+QQNAFYEIVNLPNLTDVQRNGFIQSLKDDPSASANVLIEAKNTNVAQAP
+>c98987-98847_1 Staphylococcus coagulans strain 1031373 chromosome
+QQNAFSEVVNLPNLNEDQRNGFIQSIKDDPSASQDVLNEAKKLNDSQ
+>c98468-98325_1 Staphylococcus coagulans strain 1031373 chromosome
+QQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c98138-97989_1 Staphylococcus coagulans strain 1031373 chromosome
+QQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c98993-98847_1 Staphylococcus coagulans strain 1031373 chromosome
+EAQQNAFSEVVNLPNLNEDQRNGFIQSIKDDPSASQDVLNEAKKLNDSQ
+>c98639-98490_1 Staphylococcus coagulans strain 1031373 chromosome
+EDQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>c98303-98160_1 Staphylococcus coagulans strain 1031373 chromosome
+QQNAFYEILNLPNLNEEQRNGFIQSLKDDPSVSKDILAEAKKLNDIQA
+>c98822-98664_1 Staphylococcus coagulans strain 1031373 chromosome
+HSEAQQNAFYEIVNLPNLTDVQRNGFIQSLKDDPSASANVLIEAKNTNVAQAP
+>c98153-97989_1 Staphylococcus coagulans strain 1031373 chromosome
+DYSAEQQNAFYEILHLPNLTDEQRDGFIQSLKDDPSVSKDILAEAKKLNDSQAPK
+>c98483-98325_1 Staphylococcus coagulans strain 1031373 chromosome
+DFSADQQNAFYEILNLPNLSEDQRNGFIQSLKDDPSVSKDVLAEAKKLNDSQA
+>c98318-98160_1 Staphylococcus coagulans strain 1031373 chromosome
+DFSADQQNAFYEILNLPNLNEEQRNGFIQSLKDDPSVSKDILAEAKKLNDIQA
+>c154744-154589_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+VNEDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c154414-154259_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+YTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c155086-154943_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+QQNAFAEILDLPILNENQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c155086-154943_6 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+AWLSFNFLASARMSLLTLGSSLRLWMKPLRWFSLRIGKSKISAKAFCX
+>c154738-154589_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+EDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c154573-154424_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+EAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c154408-154259_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+EAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c155092-154943_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+EAQQNAFAEILDLPILNENQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c154921-154763_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+HSADQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSADILIQARNVNVAQAP
+>c154747-154589_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+NVNEDQQNAFYEILNLPNLNEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c154417-154259_1 Mammaliicoccus fleurettii strain ssch3 chromosome, complete genome
+DYTEAQQNAFYEILHLPNLSEDQRNGFIQSLKDDPSVSKDILAEAKKLNDSQA
+>c152555-152397_1 Staphylococcus schleiferi strain 2142-05, complete genome
+ELNEDQQNAFYEIINSPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>2386705-2386845_1 Staphylococcus schleiferi strain 2142-05, complete genome
+EQKAFYQVLHMEGITEEQRDQYIKQLHEDKNSAQNVFSESIKDSQRP
+>2386705-2386845_2 Staphylococcus schleiferi strain 2142-05, complete genome
+NKKHFIKYYIWKALRKSNVINTSNNYMKIKTVHKMFSLNQLKIANVL
+>c152546-152397_1 Staphylococcus schleiferi strain 2142-05, complete genome
+EDQQNAFYEIINSPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>c152552-152397_1 Staphylococcus schleiferi strain 2142-05, complete genome
+LNEDQQNAFYEIINSPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>c176801-176643_1 Staphylococcus schleiferi strain 5909-02, complete genome
+ELNEDQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>3-149_1 Staphylococcus aureus strain SA3 protein A gene, partial cds
+QNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK
+>165-254_1 Staphylococcus aureus strain SA3 protein A gene, partial cds
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQ
+>183-254_1 Staphylococcus aureus strain SA3 protein A gene, partial cds
+QQSAFYEILNMPNLNEAQRNGFIQ
+>150-254_1 Staphylococcus aureus strain SA3 protein A gene, partial cds
+ADAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQ
+>c200892-200734_1 Staphylococcus schleiferi DNA, complete genome, strain: TSCC54
+ELNENQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>2496539-2496679_1 Staphylococcus schleiferi DNA, complete genome, strain: TSCC54
+EQKAFYQVLHMDGITEEQRDQYIKQLHEDKNSAQNVFSESIKDSQRP
+>2496539-2496679_2 Staphylococcus schleiferi DNA, complete genome, strain: TSCC54
+NKKHFTKYYIWMVLRKSNAINTSNNYMKIKTVHKTYSLNQLKTANVL
+>c200883-200734_1 Staphylococcus schleiferi DNA, complete genome, strain: TSCC54
+ENQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>c200889-200734_1 Staphylococcus schleiferi DNA, complete genome, strain: TSCC54
+LNENQQNAFYEIINLPNLKDDQRNGFIQSLKDDPSASKDVLAEAKKLSDSQA
+>61942-62103_1 Staphylococcus pseudintermedius strain HSP125 chromosome, complete genome
+INDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDSQAPK
+>61948-62103_1 Staphylococcus pseudintermedius strain HSP125 chromosome, complete genome
+DAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDSQAPK
+>61939-62103_1 Staphylococcus pseudintermedius strain HSP125 chromosome, complete genome
+NINDAQQNAFYEILHLPNLTEEQQNGFIQSLKDDPSVSNDILVEAKKLNDSQAPK
+>1-135_1 Staphylococcus aureus strain 463 protein A (spa) gene, partial cds
+YEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c82719-82567_1 Staphylococcus aureus strain MCRF184 chromosome, complete genome
+NNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNE
+>c82701-82567_1 Staphylococcus aureus strain MCRF184 chromosome, complete genome
+QQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNE
+>c82734-82567_1 Staphylococcus aureus strain MCRF184 chromosome, complete genome
+AEAQQNNFNKDQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNE
+>1-135_1 Staphylococcus aureus strain 1249 protein A (spa) gene, partial cds
+YEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>127-276_1 Staphylococcus aureus strain CCT60401 truncated protein A (spa) gene, complete cds
+QQNAFYQVLNMPNLNADQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>109-276_1 Staphylococcus aureus strain CCT60401 truncated protein A (spa) gene, complete cds
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>99875-100024_1 Staphylococcus pseudintermedius strain 10916-77753 chromosome, complete genome
+QQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQAPK
+>99869-100024_1 Staphylococcus pseudintermedius strain 10916-77753 chromosome, complete genome
+EAQQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQAPK
+>99854-100024_1 Staphylococcus pseudintermedius strain 10916-77753 chromosome, complete genome
+GDNNAEAQQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQAPK
+>1-135_1 Staphylococcus aureus strain P832812 protein A (spa) gene, partial cds
+YEILHLPNLTEEQRNGVIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>84715-84852_1 Staphylococcus pseudintermedius strain 56SADR2 chromosome, complete genome
+FMKYLHLPNLTEEQRNGFIQSLKDDPSVSSDILAEAKKLNDSQAPK
+>84715-84852_6 Staphylococcus pseudintermedius strain 56SADR2 chromosome, complete genome
+LGAWLSFNFLASARISLLTLGSSLRLWMKPLRCSSVKFGRCKYFIX
+>1-135_1 Staphylococcus aureus strain N259615 protein A (spa) gene, partial cds
+YEILQLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c152579-152475_1 Staphylococcus schleiferi strain NCTC12218 genome assembly, chromosome: 1
+EEQRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c152579-152475_6 Staphylococcus schleiferi strain NCTC12218 genome assembly, chromosome: 1
+LGAWLSFNFLASARISLLTLGSSLRLWMKPLRCSS
+>c152573-152475_1 Staphylococcus schleiferi strain NCTC12218 genome assembly, chromosome: 1
+QRNGFIQSLKDDPSVSKEILAEAKKLNDSQAPK
+>c152573-152475_6 Staphylococcus schleiferi strain NCTC12218 genome assembly, chromosome: 1
+LGAWLSFNFLASARISLLTLGSSLRLWMKPLRX
+>c169874-169725_1 Staphylococcus sp. MI 10-1553 chromosome, complete genome
+QQNAFAEVLNLPNLNEDQRNGFIQSLKDDPSASKDVLAEAQKLNDSQAPK
+>110702-110872_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>110885-111049_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQA
+>110336-110506_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARKLNESQAPQ
+>110153-110323_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>109991-110140_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+RQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>110714-110872_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>110348-110506_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARKLNESQAPQ
+>110897-111049_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQA
+>110165-110323_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>109979-110140_1 Staphylococcus sp. IVB6246 chromosome, complete genome
+NDGGRQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>1-135_1 Staphylococcus aureus strain 296 protein A (spa) gene, partial cds
+YEILHLPNLTEEQRNGFIQSLKDDLSVSKEILAEAKKLNDAQAPK
+>1-132_1 Staphylococcus aureus strain 104 protein A (spa) gene, partial cds
+YEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAPPP
+>1-132_6 Staphylococcus aureus strain 104 protein A (spa) gene, partial cds
+GGGASFSFLASAKISLLTEGSSLRLWMKPLRCSSVKLGKCKISX
+>42470-42640_1 Staphylococcus simulans strain IVB6244 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARILNESQAPQ
+>42482-42640_1 Staphylococcus simulans strain IVB6244 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARILNESQAPQ
+>42113-42274_1 Staphylococcus simulans strain IVB6244 chromosome, complete genome
+NDGGRQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>75558-75728_1 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARNLNESQAPQ
+>75570-75728_1 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLAEARNLNESQAPQ
+>75384-75545_1 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+NDGDRQAAFYEMLHMENLNDNQKDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>75393-75545_1 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+DRQAAFYEMLHMENLNDNQKDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>75363-75545_1 Staphylococcus simulans strain IVB6179 chromosome, complete genome
+VDAAEEVNDGDRQAAFYEMLHMENLNDNQKDGFIQSLKDDPSQSNALLDQARNLNESQAP
+>100364-100534_1 Staphylococcus sp. IVB6238 chromosome, complete genome
+ENTFDQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESEAPQ
+>100202-100351_1 Staphylococcus sp. IVB6238 chromosome, complete genome
+RQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESEAPQ
+>100376-100534_1 Staphylococcus sp. IVB6238 chromosome, complete genome
+DQDQQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESEAPQ
+>100190-100351_1 Staphylococcus sp. IVB6238 chromosome, complete genome
+NDGGRQAAFYEMLHMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESEAPQ
+>1292069-1292239_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+ENTFDQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>1292435-1292605_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+ENTFDQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>1292618-1292782_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+ENTFDQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQA
+>1291886-1292056_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+ENTFDQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>1291721-1291873_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+DQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>1292081-1292239_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+DQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>1292447-1292605_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+DQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQAPQ
+>1292630-1292782_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+DQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLAEARKLNESQA
+>1291898-1292056_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+DQDQQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>1291724-1291873_1 Staphylococcus haemolyticus strain GDY8P80P chromosome, complete genome
+QQAAFYEMLNMENLNDNQRDGFIQSLKDDPSQSNALLDQARNLNESQAPQ
+>1-126_1 Staphylococcus aureus strain SA1 protein A gene, partial cds
+LNMPNLNADQRNGFIQSLKDDPSQSANLLSEAKKLNESQAPK
+>127-213_1 Staphylococcus aureus strain SA1 protein A gene, partial cds
+ADNKFNKEQQNAFYEILHLPNLNEEQRNG
+>133-213_1 Staphylococcus aureus strain SA1 protein A gene, partial cds
+NKFNKEQQNAFYEILHLPNLNEEQRNG
+>4-102_1 Staphylococcus aureus strain M4 staphylococcal protein A (spa) gene, partial cds
+QRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>2-94_1 Staphylococcus aureus strain 3015 immunoglobulin G-binding protein A gene, partial cds
+NGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1-93_1 Staphylococcus aureus strain 3418 immunoglobulin G-binding protein A gene, partial cds
+NGFIQSLKDDPSVSKEILAEAKKLNDAQAPK
+>1-99_1 Staphylococcus aureus strain N9A2 immunoglobulin G-binding protein A gene, partial cds
+QRNGFIQSLKDDLSVSKEILAEAKKLNDAQAPK
+>2-91_1 Staphylococcus aureus strain 1B40 immunoglobulin G-binding protein A gene, partial cds
+GFIQSVKDDPSVSKEILAEAKKLNDAQAPK
+>1-84_1 Staphylococcus aureus strain 10B37 immunoglobulin G-binding protein A gene, partial cds
+IQSLKDDPSVSKEILAEAKKLNDAQAPK
+>c1432148-1432029_1 Staphylococcus pseudintermedius strain FDAARGOS_930 chromosome, complete genome
+QQNAFYSVLHNDDLSEEQRDAYIGRIKEDPDQSQEVFVES
+>c1432148-1432029_2 Staphylococcus pseudintermedius strain FDAARGOS_930 chromosome, complete genome
+NKMRFTAYYTTMTYPKSNVMPTLVELKKIQIKAKKYLLSL
+>c1432151-1432029_1 Staphylococcus pseudintermedius strain FDAARGOS_930 chromosome, complete genome
+AQQNAFYSVLHNDDLSEEQRDAYIGRIKEDPDQSQEVFVES
+>c1432151-1432029_2 Staphylococcus pseudintermedius strain FDAARGOS_930 chromosome, complete genome
+RNKMRFTAYYTTMTYPKSNVMPTLVELKKIQIKAKKYLLSL
+>3-95_1 Staphylococcus aureus strain 8C28 immunoglobulin G-binding protein A gene, partial cds
+NGFIQSLKDDRSVSKEILAEAKNLNDAQAPK
+>2482277-2482402_1 Staphylococcus felis strain IVB6254 chromosome, complete genome
+QQRAFYHTLHLEDVTEDQRNQYIKTIREEPTRAQEVFSESVK
+>1-87_1 Staphylococcus aureus strain 8A26 immunoglobulin G-binding protein A gene, partial cds
+FIQSLRDDPLLSKEILAEAKKLNDAQAPK
+>2-85_1 Staphylococcus aureus strain 2G51 immunoglobulin G-binding protein A gene, partial cds
+IQSFKDDPSVSKEILAEAKKLNDAQAPK
+>1-84_1 Staphylococcus aureus strain 10D39 immunoglobulin G-binding protein A gene, partial cds
+IQSLKDDPSVSKEILAEAKKLNNAQAPK
+>2001393-2001530_1 Staphylococcus agnetis strain 908 chromosome, complete genome
+QRAFYKVMHLEGITEEQRNHYIQTLRTQPERAQEVFSESIKDNNNQ
+>2001387-2001530_1 Staphylococcus agnetis strain 908 chromosome, complete genome
+DAQRAFYKVMHLEGITEEQRNHYIQTLRTQPERAQEVFSESIKDNNNQ
+>3-83_1 Staphylococcus aureus strain 2E52 immunoglobulin G-binding protein A gene, partial cds
+QSFKDDPSVSKEILAEAKKLNDAQAPK
+>c53299-53177_1 Staphylococcus agnetis strain 12B chromosome, complete genome
+QRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>c53305-53177_1 Staphylococcus agnetis strain 12B chromosome, complete genome
+DAQRAFYKVLHLEGITEEQRNHYIQTLRTQPERAQEVFSESIK
+>77-217_1 Staphylococcus coagulans strain 1032611 IgG-binding protein SBI gene, partial cds
+EQKAFYQVLHMDGITEEQRDQYIKQLHEDKNSAQNVFSESIKDSQRP
+>77-217_2 Staphylococcus coagulans strain 1032611 IgG-binding protein SBI gene, partial cds
+NKKHFTKYYIWMVLRKSNAINTSNNYMKIKTVHKTYSLNQLKTANVX
+>c207-133_1 Staphylococcus aureus strain RS_64 staphylococcal protein A (spa) gene, partial cds
+VKDDPSVSKEILAEAKKLNDAQAPK
+>5-79_1 Staphylococcus aureus strain BP19 protein A (spa) gene, partial cds
+LKDDPSVSKEILAEAKKLNDAQAPK
+>4-78_1 Staphylococcus aureus isolate Egy97B Spa gene, partial cds
+LKDDPSVSKEILAEAKKLNDAQAPK
+>3-80_1 Staphylococcus aureus strain 3519 immunoglobulin G-binding protein A gene, partial cds
+SFKDDPSVSKEILAEAKKLNDAQAPK
+>1-75_1 Staphylococcus aureus strain QS164 staphylococcal protein A (spa) gene, partial cds
+IKDDPSVSKEILAEAKKLNDAQAPK
+>2-73_1 Staphylococcus aureus strain 99AT protein A gene, partial cds
+KDDPSVSKEILAEAKKLNDAQAPK
+>2-73_1 Staphylococcus aureus strain t458-139 immunoglobulin G binding protein A (spa) gene, partial cds
+KEDPSESKEILAEAKKLNDAQAPK
+>2-73_1 Staphylococcus aureus strain t2085-96 immunoglobulin G binding protein A (spa) gene, partial cds
+KDDPSVSKEILAEAKKLNDAQAPK
