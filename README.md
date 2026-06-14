@@ -1,6 +1,6 @@
 A repository for providing supporting data for publication, Beyond Protein A: natural variation in IgG-binding proteins. 
 
-Copyright (c) 2026 Vijay M M
+Copyright (c) 2026 Vijay M Maranholkar
 All rights reserved.
 
 Vijay M. Maranholkar a, Suman Nandy b, Martiela V. Freitas a, Binh Vu b, Katerina Kourentzi b, Stacey M. Louie c, Michael J. Benedik d, Dinler A. Antunes a, Mehmet Sen a, Richard C. Willson a,b,e
